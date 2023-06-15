@@ -100,6 +100,112 @@
         "reset_spacing": false
       }
     },
+    "48263d1a-f37b-4715-893a-ac5dfd296a1a": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-1.jpg"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-2.jpg"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Women Shirt",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-3.jpg"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-4.jpg"
+          }
+        },
+        "42f26074-bbd8-4c48-9280-589c65e24d73": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-5.jpg"
+          }
+        },
+        "d96f25c4-5cc8-43f2-bfe6-de5e297695b8": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-6.jpg"
+          }
+        },
+        "1dc363d8-fa59-465f-b83b-f172afed1f26": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-7.jpg"
+          }
+        },
+        "ba532b50-1141-49eb-95db-68b50fa16fd0": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-8.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3",
+        "42f26074-bbd8-4c48-9280-589c65e24d73",
+        "d96f25c4-5cc8-43f2-bfe6-de5e297695b8",
+        "1dc363d8-fa59-465f-b83b-f172afed1f26",
+        "ba532b50-1141-49eb-95db-68b50fa16fd0"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "background_color": "",
+        "design_layout": "carousel",
+        "design_collection": "design-2",
+        "hover_effect": "zoom",
+        "show_count_product": true,
+        "custom_width_images": true,
+        "width_image": 120,
+        "images_style": "rounded",
+        "image_ratio": "1\/1",
+        "custom_ratio": "476:450",
+        "custom_column": 8,
+        "column_gap": 5,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": false,
+        "show_bullet": false,
+        "show_bullet_mobile": false,
+        "reveal_on_scroll": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f": {
       "type": "banner-image",
       "blocks": {
@@ -184,105 +290,6 @@
         "text_align": "text-left",
         "content_on_mobile": false,
         "column_gap": 30,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
-    "48263d1a-f37b-4715-893a-ac5dfd296a1a": {
-      "type": "collection-list",
-      "blocks": {
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        },
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/clt-f-2.jpg"
-          }
-        },
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "Women Shirt",
-            "collection": ""
-          }
-        },
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        },
-        "42f26074-bbd8-4c48-9280-589c65e24d73": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        },
-        "d96f25c4-5cc8-43f2-bfe6-de5e297695b8": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        },
-        "1dc363d8-fa59-465f-b83b-f172afed1f26": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        },
-        "ba532b50-1141-49eb-95db-68b50fa16fd0": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0",
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1",
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2",
-        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3",
-        "42f26074-bbd8-4c48-9280-589c65e24d73",
-        "d96f25c4-5cc8-43f2-bfe6-de5e297695b8",
-        "1dc363d8-fa59-465f-b83b-f172afed1f26",
-        "ba532b50-1141-49eb-95db-68b50fa16fd0"
-      ],
-      "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "text-center",
-        "container": "container-fluid",
-        "background_color": "",
-        "design_layout": "carousel",
-        "design_collection": "design-2",
-        "hover_effect": "zoom",
-        "show_count_product": true,
-        "custom_width_images": true,
-        "width_image": 120,
-        "images_style": "rounded",
-        "image_ratio": "1\/1",
-        "custom_ratio": "476:450",
-        "custom_column": 8,
-        "column_gap": 5,
-        "autoplay": false,
-        "loop": false,
-        "show_arrow": false,
-        "show_bullet": false,
-        "show_bullet_mobile": false,
-        "reveal_on_scroll": false,
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
@@ -568,8 +575,8 @@
   },
   "order": [
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
-    "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
+    "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "53977b27-8ae3-4aaf-beff-afbce4923722",
     "ba5b69ae-3c60-4f49-8c9f-f8c8aa5c99c6",
     "c1fdb0ad-db54-433c-b92b-3c7ffe1b276b",
