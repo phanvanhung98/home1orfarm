@@ -214,6 +214,7 @@
           "settings": {
             "banner_type": "image",
             "banner_width": "4",
+            "image": "shopify:\/\/shop_images\/bgr-bn1.jpg",
             "background_color": "",
             "video_options": "local",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -235,6 +236,7 @@
           "settings": {
             "banner_type": "image",
             "banner_width": "4",
+            "image": "shopify:\/\/shop_images\/bgr-bn2.jpg",
             "background_color": "",
             "video_options": "local",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -256,6 +258,7 @@
           "settings": {
             "banner_type": "image",
             "banner_width": "4",
+            "image": "shopify:\/\/shop_images\/bgr-bn3.jpg",
             "background_color": "",
             "video_options": "local",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
