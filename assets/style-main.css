@@ -1,0 +1,40 @@
+/* style main css
+-----------------------------------------------------------------*/
+
+.bls__header-icon-box {
+    display: block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 100%;
+    background-color: #F5F2FF;
+}
+/* .bls__header-icon-box svg {
+    vertical-align: 0px !important;
+} */
+.bls__header-icon-box:hover {
+    background-color: #F5F2FF;
+}
+.bls__header-icon-box.bgr-FFF3EC {
+    background-color: #FFF3EC;
+}
+.bls__header-icon-box.bgr-ECFBFF {
+    background-color: #ECFBFF;
+}
+.bls__header-icon-box.bgr-FEEFD0 {
+    background-color: #FEEFD0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
