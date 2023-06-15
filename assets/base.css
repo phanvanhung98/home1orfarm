@@ -812,7 +812,8 @@ header svg{
 .navigation .level0>a>.label{
     left: 51%;
     transform: translate(-0%);
-    bottom:67%
+    bottom:67%;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .navigation .level0>a:hover>.label{
     bottom:75%
