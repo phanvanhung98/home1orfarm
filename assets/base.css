@@ -819,6 +819,11 @@ header svg{
     top:50%;
     margin:0 8px
 }
+.navigation .horizontal-list.menu {
+    transform:translateY(-50%);
+    top:50%;
+    margin:0 8px
+}
 .navigation .label:before{
     border:4.5px solid transparent;
     content:"";
