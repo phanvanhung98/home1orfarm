@@ -390,6 +390,14 @@
               "background_size": "auto 100%"
             }
           },
+          "c9b1421a-9e98-4890-8259-44024178e144": {
+            "type": "html",
+            "settings": {
+              "html": "HTML custom code",
+              "page": "",
+              "col": "4"
+            }
+          },
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2": {
             "type": "link",
             "settings": {
@@ -483,6 +491,7 @@
           "0bd9c491-364c-43fe-b0f1-08aff9ab6378",
           "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3",
           "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9",
+          "c9b1421a-9e98-4890-8259-44024178e144",
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2",
           "882a36ca-717e-41e8-878f-4028268a7197",
           "10d68d71-2b8e-43b2-b14f-49c7da236e2d",
