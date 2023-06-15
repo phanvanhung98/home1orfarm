@@ -69,6 +69,8 @@
     "header_text_color": "#2d2a6e",
     "header_transparent_text_color": "#ffffff",
     "menu_color": "#2d2a6e",
+    "show_wishlist_icon": true,
+    "show_recently_viewed": false,
     "search_type": "popup",
     "predictive_search": true,
     "quick_search": "Wireless Audio , Headphones , Speakers",
