@@ -843,7 +843,7 @@ header svg{
     font-weight:600;
     white-space:nowrap;
     position:absolute;
-    border-radius:var(--btn-border-radius)
+    border-radius: 2px;
 }
 @media only screen and (min-width:1025px){
     .template-index .h-transparent:not(.header_scroll_down) .h_layout4 .middle-bottom,.template-index .h-transparent:not(.header_scroll_down) .h_layout4 .title-menu-dropdown,.template-index .h-transparent:not(.header_scroll_down) .header-middle,.template-index .transparent-topbar:not(.header_scroll_down) .topbar{
