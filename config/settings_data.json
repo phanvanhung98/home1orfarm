@@ -65,7 +65,7 @@
     "enable_transparent_header_topbar": false,
     "sticky_header_mobile": true,
     "header_background_color": "#ffffff",
-    "header_border_color": "#ffb800",
+    "header_border_color": "#ffffff",
     "sticky_header_background_color": "#ffffff",
     "header_text_color": "#2d2a6e",
     "header_transparent_text_color": "#ffffff",
