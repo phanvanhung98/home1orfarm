@@ -289,7 +289,7 @@
           "show_topbar": true,
           "background_color": "#2d2a6e",
           "text_color": "#ffffff",
-          "text_hover_color": "#00a2c2",
+          "text_hover_color": "#ffb800",
           "show_mobile": false,
           "show_phone_number": false,
           "show_email": false,
