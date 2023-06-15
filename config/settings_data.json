@@ -12,7 +12,9 @@
     "store_phone": "+222-1800-2628",
     "store_email": "blueskytechcompany@gmail.com",
     "store_address": "268 St, South New York\/NY 98944, United States.",
-    "link_store_page": "store-location",
+    "link_store_page": "faqs",
+    "link_order_tracking_page": "order-tracking",
+    "link_faqs_page": "store-location",
     "social_twitter_link": "#",
     "social_facebook_link": "#",
     "social_pinterest_link": "#",
@@ -295,6 +297,8 @@
           "show_country": true,
           "show_language": true,
           "show_store_page": true,
+          "show_order_tracking_page": true,
+          "show_faqs_page": true,
           "show_message": true,
           "message": "<p>Due to the <a href=\"#\" target=\"_blank\" title=\"#\">COVID-19<\/a> epidemic, orders may be processed with a slight delay.<\/p>"
         }
