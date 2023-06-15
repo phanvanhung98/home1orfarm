@@ -393,7 +393,7 @@
           "c9b1421a-9e98-4890-8259-44024178e144": {
             "type": "html",
             "settings": {
-              "html": "HTML custom code",
+              "html": "<span class=\"bls_tag_hot_menu position-absolute\"><\/span>",
               "page": "",
               "col": "4"
             }
