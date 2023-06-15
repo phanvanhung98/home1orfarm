@@ -891,7 +891,7 @@ header svg{
     .horizontal-list .level0.bls__menu-parent>a::after{
         content:"\e946";
         font-family:blueskytechco!important;
-        line-height:1;
+        line-height:1.5;
         font-size:1.4rem;
         opacity:.5;
         margin-left:1px;
