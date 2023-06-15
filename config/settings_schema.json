@@ -224,6 +224,16 @@
         "label": "Sellect find a store page"
       },
       {
+        "type": "page",
+        "id": "link_order_tracking_page",
+        "label": "Sellect find a order tracking page"
+      },
+      {
+        "type": "page",
+        "id": "link_faqs_page",
+        "label": "Sellect find a faqs page"
+      },
+      {
         "type": "text",
         "id": "label_location",
         "label": "Location label"
