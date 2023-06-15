@@ -289,14 +289,13 @@
           "text_color": "#ffffff",
           "text_hover_color": "#00a2c2",
           "show_mobile": false,
-          "show_phone_number": true,
-          "show_email": true,
-          "show_social": true,
+          "show_phone_number": false,
+          "show_email": false,
+          "show_social": false,
           "show_country": true,
           "show_language": true,
           "show_store_page": true,
           "show_message": true,
-          "menu": "main-menu",
           "message": "<p>Due to the <a href=\"#\" target=\"_blank\" title=\"#\">COVID-19<\/a> epidemic, orders may be processed with a slight delay.<\/p>"
         }
       },
