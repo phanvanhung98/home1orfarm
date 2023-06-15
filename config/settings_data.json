@@ -496,9 +496,9 @@
         "settings": {
           "m_animation": "up_to_down",
           "label1": "Hot",
-          "label_color_1": "#e02f60",
+          "label_color_1": "#ea0d42",
           "label2": "New",
-          "label_color_2": "#516cf4",
+          "label_color_2": "#96ae00",
           "label3": "Tiktok",
           "label_color_3": "#111111",
           "width_sub_menu_center": 800
