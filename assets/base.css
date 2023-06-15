@@ -838,7 +838,7 @@ header svg{
     border-color:var(--navigation-bg-label);
     font-size:9px;
     line-height:1.4;
-    padding:4px 10px;
+    padding:4px 8px;
     text-transform:uppercase;
     font-weight:600;
     white-space:nowrap;
