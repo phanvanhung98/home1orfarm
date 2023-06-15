@@ -814,12 +814,12 @@ header svg{
     transform: translate(-0%);
     bottom:67%
 }
-.navigation .submenu .label{
-    transform:translateY(-50%);
-    top:50%;
-    margin:0 8px
+.navigation .level0>a>.label{
+    left: 51%;
+    transform: translate(-0%);
+    bottom:67%
 }
-.navigation .horizontal-list.menu {
+.navigation .submenu .label{
     transform:translateY(-50%);
     top:50%;
     margin:0 8px
