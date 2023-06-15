@@ -897,7 +897,7 @@ header svg{
         margin-left:1px;
         vertical-align:middle;
         display:inline-block;
-        font-weight:400
+        font-weight:600
     }
     .verticalmenu-html .level0.bls__menu-parent>a::after{
         content:"\e948";
