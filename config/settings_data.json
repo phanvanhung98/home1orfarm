@@ -296,7 +296,8 @@
           "show_language": true,
           "show_store_page": true,
           "show_message": true,
-          "message": "<p>Due to the epidemic, orders may be processed with a slight delay.<\/p>"
+          "menu": "main-menu",
+          "message": "<p>Due to the <a href=\"#\" target=\"_blank\" title=\"#\">COVID-19<\/a> epidemic, orders may be processed with a slight delay.<\/p>"
         }
       },
       "horizontal-menu": {
