@@ -1961,6 +1961,7 @@ body .dlg.dialog-remove-loadding{
 .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
     font-family: 'Quicksand', sans-serif !important;
     line-height: 30px;
+    margin-bottom: 28px !important;
 }
 .bls__banner-inner .hover-effect{
     display:initial
