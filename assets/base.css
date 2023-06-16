@@ -1955,6 +1955,7 @@ body .dlg.dialog-remove-loadding{
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 600;
+    color: #FFD600;
 }
 .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
     font-family: 'Quicksand', sans-serif !important;
