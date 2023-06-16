@@ -1994,12 +1994,12 @@ body .dlg.dialog-remove-loadding{
       }
       .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-subtext {
         font-size: 14px;
-        margin: 7px 0 10px 0 !important;
+        margin: 7px 0 12px 0 !important;
     }
     .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
-        line-height: 26px;
-        font-size: 18px!important;
-        margin-bottom: 16px!important;
+        line-height: 30px;
+        font-size: 24px!important;
+        margin-bottom: 20px!important;
     }
 }
 .bls__banner-inner .hover-effect{
