@@ -156,6 +156,28 @@
     justify-content: center;
 }
 
+/* Design 4 */
+
+.design-4 .bls__collection-count::before,
+.design-4 .bls__collection-count::after {
+    display: none;
+}
+.bls__collection-infor.design-4 {
+    text-align: center;
+} 
+.bls__collection-content.design-4 .bls__collection-items .collection-item {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px 10px;
+}
+.bls__collection-infor.design-4 {
+    margin-top: 10px;
+}
+.design-4 .bls__collection-title {
+    margin-bottom: 3px;
+}
+
+
 /* Collection packery */
 .bls__collection-packery .bls__collection-infor {
     position: absolute;
