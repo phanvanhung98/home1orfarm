@@ -566,7 +566,7 @@
         "text_align": "text-center",
         "container": "container",
         "background_color": "",
-        "blog": "",
+        "blog": "news",
         "num_post_show": 4,
         "post_item_desktop": 3,
         "column_gap": 30,
