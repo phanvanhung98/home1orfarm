@@ -1950,6 +1950,11 @@ body .dlg.dialog-remove-loadding{
 .bls__banner .bls__banner-inner .bls__banner-content {
     max-width: 63%;
 }
+@media (min-width: 1500px){
+    .bls__banner .bls__banner-inner .bls__banner-content {
+        max-width: 70%;
+    }
+}
 .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-subtext {
     font-family: 'Jost', sans-serif !important;
     text-transform: uppercase;
