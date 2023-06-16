@@ -583,8 +583,8 @@
         "post_show_date": true,
         "post_show_excerpt": true,
         "post_show_button": true,
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 100,
+        "padding_bottom": 100,
         "reset_spacing": false
       }
     }
