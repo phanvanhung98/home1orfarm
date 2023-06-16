@@ -375,22 +375,6 @@
               "col": "3"
             }
           },
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9": {
-            "type": "menu_item",
-            "settings": {
-              "title": "Shop",
-              "url": "",
-              "open_link": false,
-              "label": "",
-              "icon_font": "",
-              "icon_width_image": 20,
-              "width": "full-width",
-              "custom_width": 1200,
-              "background_repeat": "no-repeat",
-              "background_position": "right center",
-              "background_size": "auto 100%"
-            }
-          },
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2": {
             "type": "link",
             "settings": {
@@ -474,6 +458,22 @@
               "icon_font": "",
               "icon_width_image": 50
             }
+          },
+          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9": {
+            "type": "menu_item",
+            "settings": {
+              "title": "About Us",
+              "url": "",
+              "open_link": false,
+              "label": "",
+              "icon_font": "",
+              "icon_width_image": 20,
+              "width": "full-width",
+              "custom_width": 1200,
+              "background_repeat": "no-repeat",
+              "background_position": "right center",
+              "background_size": "auto 100%"
+            }
           }
         },
         "block_order": [
@@ -483,7 +483,6 @@
           "4e569da7-b3ef-4dec-81d3-703cb45b6fec",
           "0bd9c491-364c-43fe-b0f1-08aff9ab6378",
           "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3",
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9",
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2",
           "882a36ca-717e-41e8-878f-4028268a7197",
           "10d68d71-2b8e-43b2-b14f-49c7da236e2d",
@@ -491,7 +490,8 @@
           "0bb86940-20a7-4258-aac1-6e281e129080",
           "b29783ca-d8d6-454a-a939-88a2f19bc5ef",
           "d7c29f4e-5b2d-4d1c-8190-e2ab7ea4596a",
-          "d165434f-e35f-4638-b915-3c7216d66674"
+          "d165434f-e35f-4638-b915-3c7216d66674",
+          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9"
         ],
         "settings": {
           "m_animation": "up_to_down",
