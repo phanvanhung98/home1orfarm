@@ -176,8 +176,8 @@
     "collection_title": "Collection name"
   },
   "collection": {
-    "count_html": "{{ count }} <span>Product<\/span>",
-    "counts_html": "{{ count }} <span>Products<\/span>",
+    "count_html": "{{ count }} <span>Item<\/span>",
+    "counts_html": "{{ count }} <span>Items<\/span>",
     "collection_title": "Collection name",
     "shop_now": "Shop Now"
   },
