@@ -225,9 +225,9 @@
             "h_text_weight": 700,
             "title": "Eat Green Best For Family",
             "subtext": "Top offers",
-            "content": "",
+            "content": "<p>Free Shipping 05km<\/p>",
             "button_type": "link",
-            "btn_content": "Free Shipping 05km",
+            "btn_content": "",
             "open_link": "_blank"
           }
         },
@@ -269,9 +269,9 @@
             "h_text_weight": 700,
             "title": "Healthy Fresh Free Bread",
             "subtext": "Top seller",
-            "content": "",
+            "content": "<p>Limited Time: Online Only!<\/p>",
             "button_type": "link",
-            "btn_content": "Shop Camera",
+            "btn_content": "",
             "open_link": "_blank"
           }
         }
