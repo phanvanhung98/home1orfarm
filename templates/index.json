@@ -557,23 +557,6 @@
         "padding_bottom": 0,
         "reset_spacing": true
       }
-    },
-    "ff885f24-6501-4f1d-a21e-4e89407ceb42": {
-      "type": "subscribe-form",
-      "settings": {
-        "heading": "Sign Up to Newsletter",
-        "description": "<p>Enter your email address to get $10 off your first order and free shipping.<\/p>",
-        "text_alignment": "text-center",
-        "container": "container-fluid",
-        "background_color": "#f1f5f6",
-        "email_placeholder": "Your email address...",
-        "btn_text": "Subscribe",
-        "form_layout": "vertical",
-        "text_color": "default",
-        "padding_top": 60,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
     }
   },
   "order": [
@@ -586,7 +569,6 @@
     "ed1c661f-a07f-493d-b805-859f35f9edc0",
     "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "a33b07e7-4bfe-49be-b75c-f5ca36b7975d",
-    "08877496-16c6-4621-94ca-b372ea143f40",
-    "ff885f24-6501-4f1d-a21e-4e89407ceb42"
+    "08877496-16c6-4621-94ca-b372ea143f40"
   ]
 }
