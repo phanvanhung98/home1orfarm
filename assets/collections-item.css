@@ -15,7 +15,7 @@
 }
 
 .bls__collection-title {
-    font-size: var(--collection-title-size);
+    font-size: 15px;
     font-weight: var(--collection-title-weight);
     color: var(--collection-title-color);
     text-transform: capitalize;
