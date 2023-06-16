@@ -169,13 +169,16 @@
     background-color: #fff;
     border-radius: 10px;
     padding: 30px 10px 23px;
+}
+.bls__collection-content.design-4 .bls__collection-items {
     transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+    padding-top: 10px;
 }
 .bls__collection-infor.design-4 {
     margin-top: 17px;
 }
-.bls__collection-content.design-4 .bls__collection-items .collection-item:hover {
-    transform: translateY(-5px);
+.bls__collection-content.design-4 .bls__collection-items:hover {
+    transform: translateY(-7px);
 }
 
 /* Collection packery */
