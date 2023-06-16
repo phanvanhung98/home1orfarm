@@ -569,7 +569,7 @@
         "blog": "news",
         "num_post_show": 4,
         "post_item_desktop": 4,
-        "column_gap": 30,
+        "column_gap": 20,
         "autoplay": false,
         "loop": false,
         "show_arrow": true,
