@@ -1,17 +1,77 @@
 .section-blog{
     --posts-title-color: #212529;
 }
-.bls__blog-posts-title a{
-    color: var(--posts-title-color);
-}
 #bls__blog-container .bls__blog-posts-item {
     margin-bottom: calc(var(--bs-gutter-x) + 10px);
 }
-
-.blos__blog-posts-info {
-    padding-top: 2.5rem;
+.bls__blog-posts-item {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
 }
-
+.blos__blog-posts-info {    
+    padding: 24px 30px 28px;
+}
+@media (max-width:575px) {
+    .blos__blog-posts-info {    
+        padding: 24px 20px 28px;
+    }
+}
+.blos__blog-posts-info .bls__blog-posts-top .bls__posts-info {
+    padding-right: 12px; 
+    margin-right: 11px;
+    position: relative;
+}
+.blos__blog-posts-info .bls__blog-posts-top .bls__posts-info:last-child {
+    padding-right: 0; 
+    margin-right: 0;
+}
+.blos__blog-posts-info .bls__blog-posts-top .bls__posts-info:before {
+    position: absolute;
+    content: '';
+    width: 3px;
+    height: 3px;
+    border-radius: 100%;
+    top: 45%;
+    transform: translateY(-50%);
+    right: 0;
+    background-color: #CFD4DE;
+}
+.blos__blog-posts-info .bls__blog-posts-top {
+    color: #79819C;
+}
+.blos__blog-posts-info .bls__blog-posts-top .bls__posts-info a {
+    color: var(--color-link-hover);
+}
+.bls__blog-posts-title {
+    font-family: 'Quicksand', sans-serif !important;
+    line-height: 23px !important;
+    margin-top: 8px;
+}
+.blos__blog-posts-info .bls__blog-posts-content {
+    line-height: 23px;
+}
+.blos__blog-posts-info .blog-posts-readmore {
+    color: var(--color-link-hover);
+    font-family: 'Jost', sans-serif !important;
+    margin-top: 6px;
+    display: inline-block;
+    position: relative;
+}
+.hover-underline-bottom:before {
+    position: absolute;
+    content: '';
+    width: 0%;
+    height: 1px;
+    background-color: var(--color-link-hover);
+    bottom: 3px;
+    right: 0;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.hover-underline-bottom:hover:before {
+    width: 100%;
+    left: 0;
+}
 .bls__blog-posts-item .bls__blog-posts-tag {
     display: block;
     font-size: 11px;
