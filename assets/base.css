@@ -1947,6 +1947,9 @@ body .dlg.dialog-remove-loadding{
     border-radius: 10px;
     overflow: hidden;
 }
+.bls__banner .bls__banner-inner .bls__banner-content {
+    max-width: 70%;
+}
 .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-subtext {
     font-family: 'Jost', sans-serif !important;
     text-transform: uppercase;
