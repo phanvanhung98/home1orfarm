@@ -469,6 +469,17 @@
               "icon_font": "",
               "icon_width_image": 50
             }
+          },
+          "1d16e3c5-dac2-4e83-ae2c-91fd15bc79df": {
+            "type": "single_link",
+            "settings": {
+              "title": "About Us",
+              "url": "shopify:\/\/pages\/about-us",
+              "open_link": false,
+              "label": "",
+              "icon_font": "",
+              "icon_width_image": 50
+            }
           }
         },
         "block_order": [
@@ -486,7 +497,8 @@
           "b29783ca-d8d6-454a-a939-88a2f19bc5ef",
           "d7c29f4e-5b2d-4d1c-8190-e2ab7ea4596a",
           "d165434f-e35f-4638-b915-3c7216d66674",
-          "b239e3fe-d7c0-4357-90ce-2c2689361161"
+          "b239e3fe-d7c0-4357-90ce-2c2689361161",
+          "1d16e3c5-dac2-4e83-ae2c-91fd15bc79df"
         ],
         "settings": {
           "m_animation": "up_to_down",
