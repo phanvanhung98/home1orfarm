@@ -1975,11 +1975,15 @@ body .dlg.dialog-remove-loadding{
   }
 }
 @media (max-width: 1300px){
+      .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-subtext {
+        font-size: 12px;
+        margin: 7px 0 12px 0 !important;
+    }
     .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
         line-height: 26px;
         font-size: 18px!important;
         margin-bottom: 18px!important;
-  }
+    }
 }
 .bls__banner-inner .hover-effect{
     display:initial
