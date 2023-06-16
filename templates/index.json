@@ -245,11 +245,11 @@
             "content_spacing": "default",
             "text_size": "large",
             "h_text_weight": 400,
-            "title": "",
-            "subtext": "Buy 1 Get 1<br>\nSave Up To $559",
+            "title": "Fresh Food Restore Health",
+            "subtext": "Weekend Deals",
             "content": "",
             "button_type": "link",
-            "btn_content": "Shop Deals",
+            "btn_content": "",
             "open_link": "_blank"
           }
         },
