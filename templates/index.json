@@ -557,6 +557,36 @@
         "padding_bottom": 0,
         "reset_spacing": true
       }
+    },
+    "f595ae89-207e-47fb-93d6-4e1233e26156": {
+      "type": "blog-posts",
+      "settings": {
+        "heading": "Blog posts",
+        "description": "",
+        "text_align": "text-center",
+        "container": "container",
+        "background_color": "",
+        "blog": "",
+        "num_post_show": 4,
+        "post_item_desktop": 3,
+        "column_gap": 30,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "show_bullet": false,
+        "show_bullet_mobile": false,
+        "aspect_ratio": "original",
+        "custom_ratio": "21:9",
+        "hover_effect": "zoom",
+        "post_show_author": true,
+        "post_show_category": true,
+        "post_show_date": true,
+        "post_show_excerpt": true,
+        "post_show_button": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -569,6 +599,7 @@
     "ed1c661f-a07f-493d-b805-859f35f9edc0",
     "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "a33b07e7-4bfe-49be-b75c-f5ca36b7975d",
-    "08877496-16c6-4621-94ca-b372ea143f40"
+    "08877496-16c6-4621-94ca-b372ea143f40",
+    "f595ae89-207e-47fb-93d6-4e1233e26156"
   ]
 }
