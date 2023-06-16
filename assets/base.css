@@ -1944,7 +1944,7 @@ body .dlg.dialog-remove-loadding{
 }
 .bls__banner .bls__banner-inner{
     background-color:var(--banner-bg-color);
-  border-radius: 10px;
+    border-radius: 10px;
     overflow: hidden;
 }
 .bls__banner-inner .hover-effect{
