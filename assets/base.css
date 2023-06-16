@@ -1971,6 +1971,7 @@ body .dlg.dialog-remove-loadding{
     .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
         line-height: 30px;
         font-size: 22px !important;
+        margin-bottom: 22px !important;
   }
 }
 .bls__banner-inner .hover-effect{
