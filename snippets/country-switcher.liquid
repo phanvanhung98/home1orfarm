@@ -4,9 +4,7 @@
     {% form 'localization', id: form_id %}
       <div class="disclosure relative d-inline-flex py-5">
         <div class="button-localization disclosure__button">
-          {{ localization.country.name }}
-          ({{ localization.country.currency.iso_code }}
-          {{ localization.country.currency.symbol }})
+          {{ localization.country.currency.iso_code }}
           <i class="icon-chevron-down"></i>
         </div>
         <ul class="disclosure__list p-20 list-none my-0 absolute right-0 hidden">
@@ -19,9 +17,7 @@
                 {% endif %}
                 data-value="{{ country.iso_code }}"
               >
-                {{ country.name }}
-                ({{ country.currency.iso_code }}
-                {{ country.currency.symbol }})
+                {{ country.currency.iso_code }}
               </a>
             </li>
           {% endfor %}
