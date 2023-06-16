@@ -1964,7 +1964,7 @@ body .dlg.dialog-remove-loadding{
     line-height: 30px;
     margin-bottom: 28px !important;
 }
-@media (min-width: 1500px){
+@media (max-width: 1500px){
     .bls__banner .bls__banner-inner .bls__banner-content {
         max-width: 70%;
     }
