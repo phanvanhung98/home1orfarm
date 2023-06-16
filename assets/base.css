@@ -1988,6 +1988,20 @@ body .dlg.dialog-remove-loadding{
         margin-bottom: 16px!important;
     }
 }
+@media (max-width: 991px){
+      .bls__banner .bls__banner-inner .bls__banner-content {
+          max-width: 80%;
+      }
+      .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-subtext {
+        font-size: 14px;
+        margin: 7px 0 10px 0 !important;
+    }
+    .bls__banner .bls__banner-inner .bls__banner-content .bls__banner-heading {
+        line-height: 26px;
+        font-size: 18px!important;
+        margin-bottom: 16px!important;
+    }
+}
 .bls__banner-inner .hover-effect{
     display:initial
 }
