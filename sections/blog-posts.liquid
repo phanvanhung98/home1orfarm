@@ -2,6 +2,7 @@
 {{ 'blog-item.css' | asset_url | stylesheet_tag }}
 {% liquid
   assign st = section.settings
+  assign subheading = st.subheading
   assign title = st.heading
   assign desc = st.description
   assign text_align = st.text_align
@@ -66,8 +67,11 @@
 >
   <div class="{{ container }}">
     <div class="bls__blog-header ">
-      {%- if title != blank or desc != blank -%}
+      {%- if subheading != blank or title != blank or desc != blank -%}
         <div class="{% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} bls__section-header {{ text_align }}">
+          {%- if subheading != blank -%}
+            <div class="bls__section-sub-heading mb-5">{{ subheading }}</div>
+          {%- endif -%}
           {%- if title != blank -%}
             <h2 class="bls__section-heading mb-5">{{ title }}</h2>
           {%- endif -%}
@@ -166,7 +170,6 @@
                         </div>
                         <div class="bls__blog-posts-author mt-5 mr-15 fw-500 fs-12 uppercase">
                           <span>
-                            {{- 'blog_post.post_by' | t }}
                             {{ 'blog_post.author' | t -}}
                           </span>
                         </div>
@@ -197,6 +200,11 @@
     {
       "type": "header",
       "content": "Section header"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub Heading"
     },
     {
       "type": "text",
