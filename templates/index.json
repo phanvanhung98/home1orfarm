@@ -246,7 +246,7 @@
             "text_size": "small_2",
             "h_text_weight": 700,
             "title": "Fresh Food Restore Health",
-            "subtext": "Weekend Deals",
+            "subtext": "<span>Weekend Deals<\/span>",
             "content": "",
             "button_type": "link",
             "btn_content": "",
