@@ -568,7 +568,7 @@
         "background_color": "",
         "blog": "news",
         "num_post_show": 4,
-        "post_item_desktop": 3,
+        "post_item_desktop": 4,
         "column_gap": 30,
         "autoplay": false,
         "loop": false,
