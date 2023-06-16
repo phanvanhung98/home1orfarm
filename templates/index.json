@@ -562,7 +562,7 @@
       "type": "blog-posts",
       "settings": {
         "heading": "Our Latest Post",
-        "description": "",
+        "description": "<p>The liber tempor cum soluta nobis eleifend option congue doming quod mazim.<\/p>",
         "text_align": "text-center",
         "container": "container",
         "background_color": "",
