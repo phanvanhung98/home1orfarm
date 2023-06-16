@@ -1583,6 +1583,13 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__section-heading{
     font-weight:var(--bls__section-heading-weight,var(--heading-font-weight))
 }
+.bls__section-header .bls__section-sub-heading { 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Schoolbell', cursive;
+    color: var(--color-link-hover);
+}
 .bls__section.bls__product_list .row>*,.bls__section:not(.bls__product) .row>*{
     margin-bottom:var(--bls-gutter-x,var(--bs-gutter-x));
     margin-top:0
