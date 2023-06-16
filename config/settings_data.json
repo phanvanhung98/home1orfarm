@@ -459,27 +459,11 @@
               "icon_width_image": 50
             }
           },
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9": {
-            "type": "menu_item",
-            "settings": {
-              "title": "About Us",
-              "url": "",
-              "open_link": false,
-              "label": "",
-              "icon_font": "",
-              "icon_width_image": 20,
-              "width": "full-width",
-              "custom_width": 1200,
-              "background_repeat": "no-repeat",
-              "background_position": "right center",
-              "background_size": "auto 100%"
-            }
-          },
           "b239e3fe-d7c0-4357-90ce-2c2689361161": {
             "type": "single_link",
             "settings": {
               "title": "Contact Us",
-              "url": "",
+              "url": "shopify:\/\/pages\/contact",
               "open_link": false,
               "label": "",
               "icon_font": "",
@@ -502,7 +486,6 @@
           "b29783ca-d8d6-454a-a939-88a2f19bc5ef",
           "d7c29f4e-5b2d-4d1c-8190-e2ab7ea4596a",
           "d165434f-e35f-4638-b915-3c7216d66674",
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9",
           "b239e3fe-d7c0-4357-90ce-2c2689361161"
         ],
         "settings": {
