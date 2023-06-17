@@ -584,7 +584,6 @@
           "payment_icons_width": 289,
           "show_social_links": false,
           "footer-heading-size": 16,
-          "bgrimage": "shopify:\/\/shop_images\/bgr-footer.png",
           "footer_background_color": "rgba(0,0,0,0)",
           "footer_title_color": "#ffffff",
           "footer_text_color": "#b0afcc",
