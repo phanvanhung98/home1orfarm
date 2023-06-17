@@ -612,16 +612,33 @@
             "heading": "Support Online",
             "description": "<p>We support customers 24\/7, send questions we will solve for you immediately.<\/p>"
           }
+        },
+        "7c62a835-cdca-4588-b30f-8d2735e7c51d": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Help Center",
+            "description": "<p>Dedicated 24\/7 Support<\/p>"
+          }
+        },
+        "f9279ddb-8c8a-48d1-b7c6-b99e0b793d0d": {
+          "type": "iconbox",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/icon-svg5.png",
+            "heading": "Curated items",
+            "description": "<p>From Handpicked Sellers<\/p>"
+          }
         }
       },
       "block_order": [
         "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-0",
         "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-1",
-        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-2"
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-2",
+        "7c62a835-cdca-4588-b30f-8d2735e7c51d",
+        "f9279ddb-8c8a-48d1-b7c6-b99e0b793d0d"
       ],
       "settings": {
         "heading": "",
-        "description": "<p><\/p>",
+        "description": "",
         "text_alignment": "text-center",
         "container": "container",
         "custom_column": 3,
