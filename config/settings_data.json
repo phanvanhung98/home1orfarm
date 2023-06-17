@@ -566,7 +566,7 @@
           "41564fc0-b120-4800-8be9-86cdbe058460"
         ],
         "settings": {
-          "container": "full-width",
+          "container": "container-fluid",
           "back_to_top": true,
           "show_border_top": true,
           "remove_on_homepage": true,
