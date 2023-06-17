@@ -25,6 +25,7 @@
     "social_vimeo_link": "",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@blueskytechcompany",
     "general_layout": "fluid_container",
+    "custom_width_bd": 1200,
     "container-fluil-max-width": 1410,
     "font_source": "2",
     "fnt_body_sp": "futura_n4",
@@ -568,7 +569,7 @@
         "settings": {
           "container": "container-fluid",
           "back_to_top": true,
-          "show_border_top": true,
+          "show_border_top": false,
           "remove_on_homepage": true,
           "remove_on_inner_page": false,
           "copyright": "<p>© 2022 Umino Store. All Rights Reserved<\/p>",
@@ -583,7 +584,7 @@
           "footer_text_color": "#555555",
           "footer_link_color": "#555555",
           "footer_link_color_hover": "#111111",
-          "footer_border_color": "#924447",
+          "footer_border_color": "rgba(0,0,0,0)",
           "footer_bottom_background_color": "#2d2c6e",
           "footer_bottom_text_color": "#555555"
         }
