@@ -596,27 +596,30 @@
           "type": "iconbox",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icon-svg1_89c18da9-3e95-4e3a-a6f5-350096183a24.png",
-            "heading": "Free Shipping",
-            "description": "<p>Get complimentary ground shipping on every order. Don't love it? Send it back, on us.<\/p>"
+            "heading": "Fast Delivery",
+            "description": "<p>Across West & East India<\/p>"
           }
         },
         "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-1": {
           "type": "iconbox",
           "settings": {
-            "heading": "Free Returns",
-            "description": "<p>Free returns within 10 days, please make sure the items are in undamaged condition.<\/p>"
+            "icon": "shopify:\/\/shop_images\/icon-svg2_747a854a-dd5c-4ded-8231-3ccfad6bc41b.png",
+            "heading": "safe payment",
+            "description": "<p>100% Secure Payment<\/p>"
           }
         },
         "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-2": {
           "type": "iconbox",
           "settings": {
-            "heading": "Support Online",
-            "description": "<p>We support customers 24\/7, send questions we will solve for you immediately.<\/p>"
+            "icon": "shopify:\/\/shop_images\/icon-svg3_7586d98e-12ac-4ba4-bad9-ec9ad872c0c1.png",
+            "heading": "Online Discount",
+            "description": "<p>Add Multi-buy Discount<\/p>"
           }
         },
         "7c62a835-cdca-4588-b30f-8d2735e7c51d": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify:\/\/shop_images\/icon-svg4_40bf0393-85a1-4e90-962c-11ad8f9f9fe8.png",
             "heading": "Help Center",
             "description": "<p>Dedicated 24\/7 Support<\/p>"
           }
@@ -624,7 +627,7 @@
         "f9279ddb-8c8a-48d1-b7c6-b99e0b793d0d": {
           "type": "iconbox",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/icon-svg5.png",
+            "icon": "shopify:\/\/shop_images\/icon-svg5_fbe8064f-75be-4ff9-b3c7-5289b1a9b656.png",
             "heading": "Curated items",
             "description": "<p>From Handpicked Sellers<\/p>"
           }
