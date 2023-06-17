@@ -11,7 +11,7 @@
             "content_width": 100,
             "content_background_color": "",
             "content_opacity": 100,
-            "horizontal_position": "center_position",
+            "horizontal_position": "left_position",
             "vertical_position": "middle_position",
             "slider_effect": "effect_fadeinleft",
             "text_alignment": "center",
