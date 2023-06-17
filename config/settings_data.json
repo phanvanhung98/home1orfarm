@@ -586,7 +586,7 @@
           "footer_link_color_hover": "#111111",
           "footer_border_color": "rgba(0,0,0,0)",
           "footer_bottom_background_color": "#2d2c6e",
-          "footer_bottom_text_color": "#555555"
+          "footer_bottom_text_color": "#b0afcc"
         }
       },
       "vertical-menu": {
