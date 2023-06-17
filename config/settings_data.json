@@ -522,7 +522,6 @@
             "settings": {
               "title": "Let Us Help You",
               "description": "<p>If you have any question, please<br\/>contact us at: <a href=\"mailto:support@example.com\" title=\"mailto:support@example.com\">support@example.com<\/a><\/p>",
-              "logo_width": 90,
               "about_description": "",
               "show_address": false,
               "show_phone": false,
@@ -531,12 +530,18 @@
               "width": "33%"
             }
           },
-          "dbc96a1f-7b6c-4dba-9ce1-da9cb5dfc9fc": {
-            "type": "menu",
+          "9c59603c-6b55-4b13-98a4-c05c4f1f3038": {
+            "type": "about_us2",
             "settings": {
-              "menu": "",
-              "title": "Customer Service",
-              "width": "16%"
+              "title": "",
+              "description": "",
+              "about2_label1": "",
+              "about2_time1": "",
+              "about2_label2": "",
+              "about2_time2": "",
+              "about2_label3": "",
+              "about2_time3": "",
+              "width": "25%"
             }
           },
           "76e440bc-ed64-49ce-9dd4-1b5b5b46645d": {
@@ -562,7 +567,7 @@
         },
         "block_order": [
           "66e258af-c393-4b5c-b25b-057fd161df52",
-          "dbc96a1f-7b6c-4dba-9ce1-da9cb5dfc9fc",
+          "9c59603c-6b55-4b13-98a4-c05c4f1f3038",
           "76e440bc-ed64-49ce-9dd4-1b5b5b46645d",
           "41564fc0-b120-4800-8be9-86cdbe058460"
         ],
