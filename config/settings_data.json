@@ -521,7 +521,7 @@
             "type": "about_us",
             "settings": {
               "title": "Let Us Help You",
-              "description": "",
+              "description": "<p>If you have any question, please<br\/>contact us at: <a href=\"mailto:support@example.com\" title=\"mailto:support@example.com\">support@example.com<\/a><\/p>",
               "logo_width": 90,
               "about_description": "",
               "show_address": true,
