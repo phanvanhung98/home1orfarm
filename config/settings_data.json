@@ -568,7 +568,7 @@
         "settings": {
           "container": "container-fluid",
           "back_to_top": true,
-          "show_border_top": true,
+          "show_border_top": false,
           "remove_on_homepage": true,
           "remove_on_inner_page": false,
           "copyright": "<p>© 2022 Umino Store. All Rights Reserved<\/p>",
