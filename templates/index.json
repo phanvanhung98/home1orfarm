@@ -641,7 +641,7 @@
         "description": "",
         "text_alignment": "text-center",
         "container": "container",
-        "custom_column": 3,
+        "custom_column": 4,
         "column_gap": 30,
         "background_color": "#2d2c6e",
         "icon_width": 42,
