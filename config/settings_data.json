@@ -566,7 +566,7 @@
           "41564fc0-b120-4800-8be9-86cdbe058460"
         ],
         "settings": {
-          "container": "container-fluid",
+          "container": "container",
           "back_to_top": true,
           "show_border_top": true,
           "remove_on_homepage": true,
@@ -583,7 +583,7 @@
           "footer_text_color": "#555555",
           "footer_link_color": "#555555",
           "footer_link_color_hover": "#111111",
-          "footer_border_color": "#924444",
+          "footer_border_color": "#484492",
           "footer_bottom_background_color": "#2d2c6e",
           "footer_bottom_text_color": "#555555"
         }
