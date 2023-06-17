@@ -103,6 +103,7 @@
                       {%- endfor -%}
                     </ul>
                   {%- endif -%}
+
                 {%- when 'about_us' -%}
                   {%- if block.settings.description != blank -%}
                     <div class="mb-15">{{ block.settings.description }}</div>
@@ -143,6 +144,34 @@
                   {%- if block.settings.show_socials_link -%}
                     {%- render 'social-media-links', custom_class: '' -%}
                   {%- endif -%}
+                {%- when 'about_us2' -%}
+                  {%- if block.settings.description != blank -%}
+                    <div class="mb-15">{{ block.settings.description }}</div>
+                  {%- endif -%}
+                  <div class="bls__footer-calender mb-24">
+                    {%- if block.settings.about2_label1 -%}
+                        {{ block.settings.about2_label1 }}
+                    {%- endif -%}
+                    {%- if block.settings.about2_time1 -%}
+                        {{ block.settings.about2_time1 }}
+                    {%- endif -%}
+                  </div>
+                  <div class="bls__footer-calender mb-24">
+                    {%- if block.settings.about2_label2 -%}
+                        {{ block.settings.about2_label2 }}
+                    {%- endif -%}
+                    {%- if block.settings.about2_time2 -%}
+                        {{ block.settings.about2_time2 }}
+                    {%- endif -%}
+                  </div>
+                  <div class="bls__footer-calender mb-24">
+                    {%- if block.settings.about2_label3 -%}
+                        {{ block.settings.about2_label3 }}
+                    {%- endif -%}
+                    {%- if block.settings.about2_time2 -%}
+                        {{ block.settings.about2_time2 }}
+                    {%- endif -%}
+                  </div>
                 {%- when 'newsletter' -%}
                   {{ block.settings.description }}
                   <div class="bls__newsletter-form mt-30 {% if block.settings.style_light %}style-light{% endif %}">
@@ -206,7 +235,8 @@
   {%- endif -%}
   <div class="bls__footer-bottom">
     <div class="{{ container }}">
-      <div class="flex flex-wrap align-items-center justify-content-center justify-content-md-between pt-20 pb-20 py-lg-30 border-top">
+      <div class="flex flex-wrap align-items-center justify-content-center justify-content-md-between pt-20 pb-10 py-lg-30 border-top">
+        
         {%- if copyright != blank -%}
           <div class="bls__footer-bottom-left footer_bottom-block mb-10 mb-lg-0 text-center-mb px-15 col-12 col-md-auto d-md-inline-flex align-items-center">
             <div class="copyright">{{ copyright }}</div>
@@ -214,7 +244,7 @@
         {%- endif -%}
         <div class="bls__footer-bottom-right flex align-items-center col-md{{ payment_positon }}">
           {%- if show_language or show_country -%}
-            <div class="lang-curentcy flex flex-nowrap col-right justify-content-end mr-15">
+            <div class="lang-curentcy flex flex-nowrap col-right justify-content-end">
               {%- liquid
                 if show_language
                   render 'language-switcher'
@@ -492,18 +522,6 @@
           "label": "Description"
         },
         {
-          "type": "image_picker",
-          "id": "logo_about_us",
-          "label": "Logo",
-          "info": "90 x 20px recommended"
-        },
-        {
-          "type": "number",
-          "id": "logo_width",
-          "label": "Image width (px)",
-          "default": 84
-        },
-        {
           "type": "richtext",
           "id": "about_description",
           "label": "Add additional information"
@@ -536,6 +554,93 @@
           "id": "show_socials_link",
           "label": "Show social icons",
           "default": false
+        },
+        {
+          "type": "select",
+          "id": "width",
+          "label": "Container width",
+          "default": "25%",
+          "options": [
+            {
+              "value": "16%",
+              "label": "16%"
+            },
+            {
+              "value": "25%",
+              "label": "25%"
+            },
+            {
+              "value": "33%",
+              "label": "33%"
+            },
+            {
+              "value": "50%",
+              "label": "50%"
+            },
+            {
+              "value": "66%",
+              "label": "66%"
+            },
+            {
+              "value": "75%",
+              "label": "75%"
+            },
+            {
+              "value": "83%",
+              "label": "83%"
+            },
+            {
+              "value": "100%",
+              "label": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "about_us2",
+      "name": "Looking for Orfarm?",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Heading"
+        },
+        {
+          "type": "richtext",
+          "id": "description",
+          "label": "Description"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_label1",
+          "label": "Add Label"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_time1",
+          "label": "Add additional information"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_label2",
+          "label": "Add Label"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_time2",
+          "label": "Add additional information"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_label3",
+          "label": "Add Label"
+        },
+        {
+          "type": "richtext",
+          "id": "about2_time3",
+          "label": "Add additional information"
         },
         {
           "type": "select",
