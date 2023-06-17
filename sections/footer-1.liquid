@@ -19,6 +19,7 @@
   assign remove_on_inner_page = st.remove_on_inner_page
   assign enabled_animations = th_st.animations_enabled
   assign payment_positon = ''
+  assign image_bg = st.bgrimage 
   if show_language or show_country or copyright != blank
     assign payment_positon = ' justify-content-md-end'
   else
@@ -39,7 +40,8 @@
     assign active_collapse = 'unactive'
   endif
 -%}
-<footer class="{% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} footer {{ has_bg }} {% if remove_on_homepage != blank %}remove-space-homepage{% endif %} {% if remove_on_inner_page != blank %}remove-space-innerpage{% endif %}" style=" --footer-background-color : {{ bg_color }};
+
+<footer style="background-image:url({{ image_bg | image_url }})" class="{% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} footer {{ has_bg }} {% if remove_on_homepage != blank %}remove-space-homepage{% endif %} {% if remove_on_inner_page != blank %}remove-space-innerpage{% endif %}" style=" --footer-background-color : {{ bg_color }};
   --footer-heading-color : {{ heading_color }};
   --footer-text-color: {{ text_color }};
   --footer-link-color : {{ link_color }};
@@ -386,6 +388,12 @@
       "step": 1,
       "unit": "px",
       "default": 18
+    },
+    {
+      "type": "image_picker",
+      "id": "bgrimage",
+      "label": "Background image",
+      "info": "1920 x 200px recommended"
     },
     {
       "type": "header",
