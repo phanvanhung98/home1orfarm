@@ -588,6 +588,54 @@
         "padding_bottom": 100,
         "reset_spacing": false
       }
+    },
+    "eb0df996-68fb-47e7-aa68-69f9163862b0": {
+      "type": "icon-box",
+      "blocks": {
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-0": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Free Shipping",
+            "description": "<p>Get complimentary ground shipping on every order. Don't love it? Send it back, on us.<\/p>"
+          }
+        },
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-1": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Free Returns",
+            "description": "<p>Free returns within 10 days, please make sure the items are in undamaged condition.<\/p>"
+          }
+        },
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-2": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Support Online",
+            "description": "<p>We support customers 24\/7, send questions we will solve for you immediately.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-0",
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-1",
+        "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-2"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "<p><\/p>",
+        "text_alignment": "text-center",
+        "container": "container",
+        "custom_column": 3,
+        "column_gap": 30,
+        "background_color": "",
+        "icon_width": 42,
+        "ib_img_view": "default",
+        "img_position": "position-top",
+        "content_text_alignment": "text-center",
+        "text_color": "default",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -601,6 +649,7 @@
     "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "a33b07e7-4bfe-49be-b75c-f5ca36b7975d",
     "08877496-16c6-4621-94ca-b372ea143f40",
-    "f595ae89-207e-47fb-93d6-4e1233e26156"
+    "f595ae89-207e-47fb-93d6-4e1233e26156",
+    "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
 }
