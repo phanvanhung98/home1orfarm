@@ -577,13 +577,13 @@
           "payment_icons_width": 331,
           "show_social_links": false,
           "footer-heading-size": 16,
-          "footer_background_color": "#f1f5f6",
+          "footer_background_color": "#2d2c6e",
           "footer_title_color": "#111111",
           "footer_text_color": "#555555",
           "footer_link_color": "#555555",
           "footer_link_color_hover": "#111111",
           "footer_border_color": "#e5e8ec",
-          "footer_bottom_background_color": "#f1f5f6",
+          "footer_bottom_background_color": "#2d2c6e",
           "footer_bottom_text_color": "#555555"
         }
       },
