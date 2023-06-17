@@ -644,7 +644,7 @@
         "custom_column": 4,
         "column_gap": 30,
         "background_color": "#2d2c6e",
-        "icon_width": 42,
+        "icon_width": 20,
         "ib_img_view": "default",
         "img_position": "position-top",
         "content_text_alignment": "text-center",
