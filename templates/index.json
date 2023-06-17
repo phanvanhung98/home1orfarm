@@ -643,7 +643,7 @@
         "container": "container",
         "custom_column": 3,
         "column_gap": 30,
-        "background_color": "",
+        "background_color": "#2d2c6e",
         "icon_width": 42,
         "ib_img_view": "default",
         "img_position": "position-top",
