@@ -207,24 +207,25 @@
   <div class="bls__footer-bottom">
     <div class="{{ container }}">
       <div class="flex flex-wrap align-items-center justify-content-center justify-content-md-between pt-20 pb-10 py-lg-30 border-top">
-        {%- if show_language or show_country -%}
-          <div class="lang-curentcy flex flex-nowrap col-md">
-            {%- liquid
-              if show_language
-                render 'language-switcher'
-              endif
-              if show_country
-                render 'country-switcher'
-              endif
-            -%}
-          </div>
-        {%- endif -%}
+        
         {%- if copyright != blank -%}
           <div class="bls__footer-bottom-left footer_bottom-block mb-10 mb-lg-0 text-center-mb px-15 col-12 col-md-auto d-md-inline-flex align-items-center">
             <div class="copyright">{{ copyright }}</div>
           </div>
         {%- endif -%}
         <div class="bls__footer-bottom-right flex align-items-center col-md{{ payment_positon }}">
+          {%- if show_language or show_country -%}
+            <div class="lang-curentcy flex flex-nowrap col-right justify-content-end">
+              {%- liquid
+                if show_language
+                  render 'language-switcher'
+                endif
+                if show_country
+                  render 'country-switcher'
+                endif
+              -%}
+            </div>
+          {%- endif -%}
           {%- if social_link != false -%}
             <div class="footer_bottom-block mb-10 mb-lg-0">
               {%- render 'social-media-links', custom_class: '' -%}
