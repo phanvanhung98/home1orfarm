@@ -652,7 +652,7 @@
         "ib_img_view": "default",
         "img_position": "position-top",
         "content_text_alignment": "text-center",
-        "text_color": "default",
+        "text_color": "text-white",
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
