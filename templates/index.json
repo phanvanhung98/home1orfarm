@@ -645,7 +645,7 @@
         "description": "",
         "text_alignment": "text-center",
         "container": "container",
-        "custom_column": 4,
+        "custom_column": 5,
         "column_gap": 30,
         "background_color": "#2d2c6e",
         "icon_width": 30,
@@ -654,7 +654,7 @@
         "content_text_alignment": "text-center",
         "text_color": "text-white",
         "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_bottom": 50,
         "reset_spacing": false
       }
     }
