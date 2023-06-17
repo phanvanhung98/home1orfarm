@@ -595,6 +595,7 @@
         "template--19393301381415__eb0df996-68fb-47e7-aa68-69f9163862b0-1686970065a1bd869a-0": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify:\/\/shop_images\/icon-svg1_89c18da9-3e95-4e3a-a6f5-350096183a24.png",
             "heading": "Free Shipping",
             "description": "<p>Get complimentary ground shipping on every order. Don't love it? Send it back, on us.<\/p>"
           }
@@ -644,7 +645,7 @@
         "custom_column": 4,
         "column_gap": 30,
         "background_color": "#2d2c6e",
-        "icon_width": 24,
+        "icon_width": 30,
         "ib_img_view": "default",
         "img_position": "position-top",
         "content_text_alignment": "text-center",
