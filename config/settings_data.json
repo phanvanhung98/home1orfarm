@@ -572,7 +572,7 @@
           "show_border_top": false,
           "remove_on_homepage": true,
           "remove_on_inner_page": false,
-          "copyright": "<p>Copyright © ORFARM all rights reserved. Powered by Blueskytechco.<\/p>",
+          "copyright": "<p>Copyright © <a href=\"#\" title=\"#\">ORFARM<\/a> all rights reserved. Powered by <a href=\"#\" target=\"_blank\" title=\"#\">Blueskytechco<\/a>.<\/p>",
           "show_country": true,
           "show_language": true,
           "image_payment": "shopify:\/\/shop_images\/img-payment.png",
