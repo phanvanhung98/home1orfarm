@@ -542,7 +542,7 @@
           "76e440bc-ed64-49ce-9dd4-1b5b5b46645d": {
             "type": "menu",
             "settings": {
-              "menu": "",
+              "menu": "category-menu",
               "title": "HOT CATEGORIES",
               "width": "16%"
             }
