@@ -1547,7 +1547,6 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     right: 3px;
     bottom: 3px;
     border-radius: 3px;
-    font-family: Jost;
 }
 .bls__newsletter-form.style-contant .form-action button:hover {
   background-color: var(--btn-primary-bg);
