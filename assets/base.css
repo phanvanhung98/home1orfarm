@@ -1546,6 +1546,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     font-size: 14px;
     font-weight: 500;
     padding-left: 47px;
+    color: #ACAFB7;
 }
 .bls__newsletter-form.style-contant .form-action button {
     position: absolute;
