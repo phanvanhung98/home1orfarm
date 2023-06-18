@@ -3333,6 +3333,6 @@ body .gclose svg,body .gnext svg,body .gprev svg{
         }
     }
 }
-.color-B0AFCC {
+.color-B0AFCC, .color-B0AFCC p {
     color: #B0AFCC !important;
 }
