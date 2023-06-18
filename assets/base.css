@@ -1442,6 +1442,9 @@ header svg{
 .bls_footer--about_us2 .bls__footer_block-content .bls__footer-calender {
     flex-wrap: wrap;
 }
+.bls_footer--about_us2 .bls__footer_block-content .bls__footer-calender > p {
+  color: #fff;
+}
 .footer a:hover{
     color:var(--footer-link-hover-color)
 }
