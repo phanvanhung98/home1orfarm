@@ -1446,7 +1446,7 @@ header svg{
     margin-top: 39px;
 }
 .bls_footer--about_us .bls__footer_block-content p a{
-  
+  color:var(--btn-primary-bg);
 }
 .bls_footer--about_us2 .bls__footer_block-content .bls__footer-calender > p {
   color: #fff;
