@@ -177,7 +177,7 @@
                   </div>
                 {%- when 'newsletter' -%}
                   {{ block.settings.description }}
-                  <div class="bls__newsletter-form mt-30 {% if block.settings.style_light %}style-light{% endif %}">
+                  <div class="bls__newsletter-form mt-30 {% if block.settings.style_light %}style-light{% endif %} {% if block.settings.style_contant %}style-contant{% endif %}">
                     {%- form 'customer' -%}
                       <input
                         type="hidden"
@@ -732,6 +732,12 @@
           "id": "style_light",
           "label": "Style (light)",
           "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "style_contant",
+          "label": "Style (contant)",
+          "default": true
         },
         {
           "type": "select",
