@@ -520,7 +520,7 @@
           "66e258af-c393-4b5c-b25b-057fd161df52": {
             "type": "about_us",
             "settings": {
-              "title": "Let Us Help You",
+              "title": "LET US HELP YOU",
               "description": "<p>If you have any question, please<br\/>contact us at: <a href=\"mailto:support@example.com\" title=\"mailto:support@example.com\">support@example.com<\/a><\/p>",
               "about_description": "",
               "show_address": false,
@@ -533,7 +533,7 @@
           "9c59603c-6b55-4b13-98a4-c05c4f1f3038": {
             "type": "about_us2",
             "settings": {
-              "title": "Looking for Orfarm?",
+              "title": "LOOKING FOR ORFARM?",
               "description": "<p>68 St. Vicent Place, Glasgow, Greater <br\/>Newyork NH2012, UK.<\/p>",
               "about2_label1": "<p>Monday – Friday: <\/p>",
               "about2_time1": "<p> 8:10 AM – 6:10 PM<\/p>",
@@ -555,7 +555,7 @@
           "41564fc0-b120-4800-8be9-86cdbe058460": {
             "type": "newsletter",
             "settings": {
-              "title": "Sign Up to Newsletter",
+              "title": "SIGN UP TO NEWSLETTER",
               "description": "<p>Subscribe to the Orfarm mailing list to receive updates on new arrivals & other information.<\/p>",
               "email_placeholder": "Enter your email...",
               "email_btn_label": "subscribe",
