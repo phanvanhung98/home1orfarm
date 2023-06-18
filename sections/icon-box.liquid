@@ -15,6 +15,8 @@
   assign column_gap = st.column_gap
   assign enabled_animations = settings.animations_enabled
   assign column_gap_tablet = ''
+  assign image_bg = st.bgrimage 
+  
   if column_gap > 30
     assign column_gap_tablet = ' gap-tablet'
   endif
@@ -83,7 +85,7 @@
 {%- endcapture -%}
 <section
   class="bls__section {{ has_bg }}{{ spt_tablet }}{{ spb_tablet }}{{ spt_mobile }}{{ spb_mobile }} bls__shipping{{ reset_spacing }}"
-  style="{{ style | strip | strip_newlines }}"
+  style="{{ style | strip | strip_newlines }} background-image:url({{ image_bg | image_url }})"
 >
   <div class="{{ container }}">
     {%- if heading != blank or description != blank -%}
