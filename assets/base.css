@@ -1448,6 +1448,9 @@ header svg{
 .bls_footer--about_us .bls__footer_block-content p a{
   color:var(--btn-primary-bg);
 }
+.bls__footer_block .bls__footer_block-content p, .bls__footer_block .bls__footer_block-content a {
+  font-size: 16px;
+}
 .bls_footer--about_us .bls__footer_block-content .bls__label-social {
   font-size: 16px;
   font-weight: 400;
