@@ -464,6 +464,10 @@
             "label": "GT Walsheim Pro"
           },
           {
+            "value": "Quicksand",
+            "label": "Quicksand"
+          },
+          {
             "value": "GeneralSans",
             "label": "GeneralSans"
           }
