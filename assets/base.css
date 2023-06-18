@@ -1466,7 +1466,7 @@ header svg{
     padding-top:var(--footer-middle-padding-top)
 }
 body:not(.template-index) .footer.not-bg .bls__footer-bottom.show_border_top{
-    border-top: 1px solid var(--border-color-base);
+    border-top-color: var(--border-color-base) !important;
     padding-top:var(--footer-middle-padding-top)
 }
 .bls__footer-middle{
