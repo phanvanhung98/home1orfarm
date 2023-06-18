@@ -1546,7 +1546,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     top: 3px;
     right: 3px;
     bottom: 3px;
-    boredr-radius: 3px;
+    border-radius: 3px;
     font-family: var(--base-font-family);
 }
 .bls__social-link .list-social__item:first-child a{
