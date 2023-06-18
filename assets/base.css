@@ -1528,7 +1528,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     padding:1rem 2rem;
     border-color: #fff;
     font-size:calc(var(--base-font-size) - 2px);
-    min-width:0
+    min-width:0;
 }
 .bls__newsletter-form .form-action input[type=email]::placeholder{
     color:var(--footer-text-color)
