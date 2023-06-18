@@ -91,7 +91,7 @@
                   <span class="open-children-toggle"></span>
                 </h3>
               {%- endif -%}
-              {%- if block_title != blank -%}<div class="bls__footer_block-content pt-15 {{ active_collapse }}">{%- endif -%}
+              {%- if block_title != blank -%}<div class="bls__footer_block-content pt-15 {{ active_collapse }}" style="--footer-text-size: {{ st.footer-text-size }}px">{%- endif -%}
               {%- case block.type -%}
                 {%- when 'menu' -%}
                   {%- liquid
@@ -394,6 +394,16 @@
       "step": 1,
       "unit": "px",
       "default": 18
+    },
+    {
+      "type": "range",
+      "id": "footer-text-size",
+      "label": "Footer text size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 16
     },
     {
       "type": "header",
