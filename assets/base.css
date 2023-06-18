@@ -1429,6 +1429,9 @@ header svg{
 .footer a{
     color:var(--footer-link-color)
 }
+.bls__footer-bottom {
+    border-top: 1px solid #484492;
+}
 .bls__footer-bottom a {
     color:var(--footer-bottom-link-color)
 }
