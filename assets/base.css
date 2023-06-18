@@ -1525,6 +1525,14 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .footer .bls__social-link svg:hover path{
     fill:var(--footer-link-hover-color)
 }
+
+.bls__footer_block-content .bls__social-link li a svg {
+  width:24px;
+  height:24px;
+}
+
+
+
 .footer .open-children-toggle{
     bottom:auto;
     top:50%;
