@@ -84,7 +84,7 @@
                 assign block_title = linklists[block.settings.menu].title
               endif
             -%}
-            <div class="bls__footer_block relative bls_footer--{{ block.type }} {{ block_width }} mb-md-30 mb-10 {{ active_collapse }}">
+            <div class="bls__footer_block hung relative bls_footer--{{ block.type }} {{ block_width }} mb-md-30 mb-10 {{ active_collapse }}">
               {%- if block_title != blank -%}
                 <h3 class="bls__footer_block-title py-10 mb-0 toogle-menu" style="--footer-heading-size: {{ st.footer-heading-size }}px">
                   {{ block_title }}
@@ -149,6 +149,7 @@
                   {%- if block.settings.show_socials_link -%}
                     {%- render 'social-media-links', custom_class: '' -%}
                   {%- endif -%}
+                
                 {%- when 'about_us2' -%}
                   {%- if block.settings.description != blank -%}
                     <div class="mb-15">{{ block.settings.description }}</div>
