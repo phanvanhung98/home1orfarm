@@ -1429,6 +1429,9 @@ header svg{
 .footer a{
     color:var(--footer-link-color)
 }
+.bls__footer-bottom a {
+    color:var(--footer-bottom-link-color)
+}
 .footer a:hover{
     color:var(--footer-link-hover-color)
 }
