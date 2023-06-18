@@ -3340,7 +3340,10 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     margin-top: 10px !important;
 }
 .bls__section_shipping-inner:hover .bls__responsive-image img {
-  
+    animation-name: elementor-animation-wobble-vertical;
+    animation-duration: 0.9s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
 }
 
 
