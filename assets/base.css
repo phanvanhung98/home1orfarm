@@ -1448,6 +1448,12 @@ header svg{
 .bls_footer--about_us .bls__footer_block-content p a{
   color:var(--btn-primary-bg);
 }
+.bls_footer--about_us .bls__footer_block-content .bls__label-social {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+}
+
 .bls_footer--about_us2 .bls__footer_block-content .bls__footer-calender > p {
   color: #fff;
   margin-left: 3px;
