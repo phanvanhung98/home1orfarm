@@ -1540,6 +1540,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__newsletter-form.style-contant .form-action input {
     width: 100%;
     border-radius: 3px;
+    font-size: 14px;
 }
 .bls__newsletter-form.style-contant .form-action button {
     position: absolute;
