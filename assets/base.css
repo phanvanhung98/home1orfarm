@@ -1506,7 +1506,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     -webkit-transform:translateY(-50%)
 }
 .bls__newsletter-form .form-action button{
-    padding:0 4.25rem;
+    padding:0 3.2rem;
     border:none;
     display:flex;
     justify-content:center;
