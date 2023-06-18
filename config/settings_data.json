@@ -587,8 +587,8 @@
           "footer_background_color": "#2d2c6e",
           "footer_title_color": "#ffffff",
           "footer_text_color": "#b0afcc",
-          "footer_link_color": "#96ae00",
-          "footer_link_color_hover": "#111111",
+          "footer_link_color": "#b0afcc",
+          "footer_link_color_hover": "#96ae00",
           "footer_border_color": "rgba(0,0,0,0)",
           "footer_bottom_background_color": "#2d2c6e",
           "footer_bottom_text_color": "#b0afcc"
