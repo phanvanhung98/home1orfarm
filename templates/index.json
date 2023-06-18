@@ -79,8 +79,8 @@
       "settings": {
         "container": "full-width",
         "slide_height": "custom-height",
-        "height_dk": 500,
-        "height_tb": 450,
+        "height_dk": 742,
+        "height_tb": 550,
         "height_mb": 400,
         "heading_font_size": "50",
         "heading_font_weight": "600",
