@@ -1533,6 +1533,19 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__newsletter-form .form-action input[type=email]::placeholder{
     color:var(--footer-text-color)
 }
+.bls__newsletter-form.style-contant .form-action {
+    position: relative;
+    display: block;
+}
+.bls__newsletter-form.style-contant .form-action input {
+    width: 100%;
+}
+.bls__newsletter-form.style-contant .form-action button {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    height: 100%;
+}
 .bls__social-link .list-social__item:first-child a{
     padding-left:0
 }
