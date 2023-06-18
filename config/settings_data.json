@@ -556,7 +556,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Sign Up to Newsletter",
-              "description": "<p>Enter your email address to get $10 off your first order and free shipping.<\/p>",
+              "description": "<p>Subscribe to the Orfarm mailing list to receive updates on new arrivals & other information.<\/p>",
               "email_placeholder": "Enter your email...",
               "email_btn_label": "subscribe",
               "show_social": false,
