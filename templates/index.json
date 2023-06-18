@@ -345,62 +345,6 @@
         "reset_spacing": false
       }
     },
-    "a33b07e7-4bfe-49be-b75c-f5ca36b7975d": {
-      "type": "icon-box",
-      "blocks": {
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-0": {
-          "type": "iconbox",
-          "settings": {
-            "heading": "Fast Delivery",
-            "description": "<p>Deliver in 24 hours max!<\/p>"
-          }
-        },
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-1": {
-          "type": "iconbox",
-          "settings": {
-            "heading": "Safe Payment",
-            "description": "<p>Visa, Mastercard, PayPal...<\/p>"
-          }
-        },
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-2": {
-          "type": "iconbox",
-          "settings": {
-            "heading": "Free Returns",
-            "description": "<p>Free returns within 15 days<\/p>"
-          }
-        },
-        "9725192a-3b8b-4716-b494-2cdedb2128da": {
-          "type": "iconbox",
-          "settings": {
-            "heading": "Help Center",
-            "description": "<p>Dedicated 24\/7 support<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-0",
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-1",
-        "template--18508174426409__a33b07e7-4bfe-49be-b75c-f5ca36b7975d-168083976278c0a293-2",
-        "9725192a-3b8b-4716-b494-2cdedb2128da"
-      ],
-      "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "text-center",
-        "container": "container-fluid",
-        "custom_column": 4,
-        "column_gap": 30,
-        "background_color": "rgba(0,0,0,0)",
-        "icon_width": 30,
-        "ib_img_view": "default",
-        "img_position": "position-top",
-        "content_text_alignment": "text-center",
-        "text_color": "default",
-        "padding_top": 34,
-        "padding_bottom": 10,
-        "reset_spacing": true
-      }
-    },
     "f595ae89-207e-47fb-93d6-4e1233e26156": {
       "type": "blog-posts",
       "settings": {
@@ -509,7 +453,6 @@
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "c1fdb0ad-db54-433c-b92b-3c7ffe1b276b",
-    "a33b07e7-4bfe-49be-b75c-f5ca36b7975d",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
     "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
