@@ -3336,3 +3336,6 @@ body .gclose svg,body .gnext svg,body .gprev svg{
 .color-B0AFCC, .color-B0AFCC p {
     color: #B0AFCC !important;
 }
+.bls__shipping .bls__section_shipping-content {
+    margin-top: 9px !important;
+}
