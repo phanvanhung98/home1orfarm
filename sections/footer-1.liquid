@@ -178,7 +178,7 @@
                     {%- endif -%}
                   </div>
                 {%- when 'newsletter' -%}
-                  {{ block.settings.description }}
+                  <div class="bls-des-newsletter">{{ block.settings.description }}</div>
                   <div class="bls__newsletter-form mt-30 {% if block.settings.style_light %}style-light{% endif %} {% if block.settings.style_contant %}style-contant{% endif %}">
                     {%- form 'customer' -%}
                       <input
