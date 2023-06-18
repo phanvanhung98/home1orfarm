@@ -1543,9 +1543,9 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 }
 .bls__newsletter-form.style-contant .form-action button {
     position: absolute;
-    top: 0;
-    right: 5px;
-    height: 100%;
+    top: 3px;
+    right: 3px;
+    bottom: 3px;
     font-family: var(--base-font-family);
 }
 .bls__social-link .list-social__item:first-child a{
