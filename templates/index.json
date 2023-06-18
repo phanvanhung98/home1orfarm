@@ -6,6 +6,7 @@
         "4d89f9ff-8153-4b4a-a089-ccb19f702450": {
           "type": "slider_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bgr-slide1.png",
             "content_box": "content_in_container_fluid",
             "content_custom_width": false,
             "content_width": 100,
