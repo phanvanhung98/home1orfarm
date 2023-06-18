@@ -1450,6 +1450,7 @@ header svg{
 }
 .bls__footer_block .bls__footer_block-content p, .bls__footer_block .bls__footer_block-content a {
   font-size: 16px;
+  line-height: 23px;
 }
 .bls_footer--about_us .bls__footer_block-content .bls__label-social {
   font-size: 16px;
