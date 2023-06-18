@@ -1538,7 +1538,11 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     display: block;
 }
 .bls__newsletter-form.style-contant .form-action svg {
-    
+    position: absolute;
+    left: 20px;
+    line-height: 50px;
+    top: 1px;
+    height: 100%;
 }
 .bls__newsletter-form.style-contant .form-action input {
     width: 100%;
