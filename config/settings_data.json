@@ -560,7 +560,8 @@
               "email_placeholder": "Enter your email...",
               "email_btn_label": "subscribe",
               "show_social": false,
-              "style_light": true,
+              "style_light": false,
+              "style_contant": true,
               "width": "33%"
             }
           }
