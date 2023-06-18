@@ -1549,6 +1549,9 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     border-radius: 3px;
     font-family: Jost;
 }
+.bls__newsletter-form.style-contant .form-action button:hover {
+  background-color: var(--btn-primary-bg);
+}
 .bls__social-link .list-social__item:first-child a{
     padding-left:0
 }
