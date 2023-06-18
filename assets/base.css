@@ -1432,6 +1432,9 @@ header svg{
 .bls__footer-bottom a {
     color:var(--footer-bottom-link-color)
 }
+.bls__footer-bottom a {
+    color:var(--footer-newsletter-text-color)
+}
 .bls__footer-bottom .custom-footer {
     padding-bottom: 35px !important;
     padding-top: 35px !important;
