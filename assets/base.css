@@ -1526,7 +1526,6 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__newsletter-form .form-action input[type=email]{
     margin-right:1rem;
     padding:1rem 2rem;
-    --input-border-color:var(--border-color-base);
     font-size:calc(var(--base-font-size) - 2px);
     min-width:0
 }
