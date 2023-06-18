@@ -1541,6 +1541,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     width: 100%;
     border-radius: 3px;
     font-size: 14px;
+    font-weight: 500;
 }
 .bls__newsletter-form.style-contant .form-action button {
     position: absolute;
