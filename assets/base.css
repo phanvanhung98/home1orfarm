@@ -1537,6 +1537,9 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     position: relative;
     display: block;
 }
+.bls__newsletter-form.style-contant .form-action svg {
+    
+}
 .bls__newsletter-form.style-contant .form-action input {
     width: 100%;
     border-radius: 3px;
