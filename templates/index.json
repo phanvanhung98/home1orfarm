@@ -1,5 +1,16 @@
 {
   "sections": {
+    "30c7af88-821e-458e-b0b2-60d4e544b18c": {
+      "type": "divider",
+      "settings": {
+        "container": "full-width",
+        "border_height": 1,
+        "border_color": "#e5e8ec",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
     "0c521c75-5d82-4dd6-aecc-f519d8907411": {
       "type": "slideshow",
       "blocks": {
@@ -301,66 +312,6 @@
         "reset_spacing": false
       }
     },
-    "53977b27-8ae3-4aaf-beff-afbce4923722": {
-      "type": "product-super-deal",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "text-left",
-        "container": "container-fluid",
-        "product_carousel_background_color": "",
-        "super_deal_text": "<p>Top Deals Of The Day<\/p>",
-        "text_as_title": true,
-        "super_deal_message": "<p>Hurry up! Offer ends in:<\/p>",
-        "end_time": "12-24-2025",
-        "collection": "",
-        "limit_products": 8,
-        "item_desktop": 5,
-        "column_gap": 30,
-        "carousel_autoplay": false,
-        "carousel_loop": false,
-        "carousel_arrows": false,
-        "carousel_bullets": false,
-        "show_bullet_mobile": false,
-        "enable_banner": false,
-        "banner_type": "image",
-        "video_options": "local",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "desktop_height": 650,
-        "mobile_height": 300,
-        "banner_position": "position-left",
-        "banner_link": "",
-        "banner_width": 30,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
-    "ba5b69ae-3c60-4f49-8c9f-f8c8aa5c99c6": {
-      "type": "products-list-carousel",
-      "settings": {
-        "heading": "Top Selling Products",
-        "description": "",
-        "text_alignment": "text-left",
-        "container": "container-fluid",
-        "product_carousel_background_color": "#f1f5f6",
-        "collection": "",
-        "limit_products": 8,
-        "item_desktop": 3,
-        "item_row": 2,
-        "column_gap": 10,
-        "carousel_autoplay": false,
-        "carousel_loop": false,
-        "carousel_arrows": false,
-        "carousel_bullets": false,
-        "show_bullet_mobile": false,
-        "view_all_enable": true,
-        "text_view_all": "View All",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "reset_spacing": false
-      }
-    },
     "c1fdb0ad-db54-433c-b92b-3c7ffe1b276b": {
       "type": "products-carousel",
       "settings": {
@@ -392,106 +343,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
-      }
-    },
-    "ed1c661f-a07f-493d-b805-859f35f9edc0": {
-      "type": "banner-image",
-      "blocks": {
-        "template--18508174426409__ed1c661f-a07f-493d-b805-859f35f9edc0-168084287565270e69-0": {
-          "type": "image_banner",
-          "settings": {
-            "banner_type": "image",
-            "banner_width": "4",
-            "background_color": "",
-            "video_options": "local",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "link": "",
-            "color": "default",
-            "content_spacing": "default",
-            "text_size": "small_3",
-            "h_text_weight": 600,
-            "title": "Cyber Monday - Save $599 On Speaker",
-            "subtext": "",
-            "content": "<p>Save 50% on order more than $99. Delivery in 1 days. Apply for the first 1k Customers.<\/p>",
-            "button_type": "primary",
-            "btn_content": "",
-            "open_link": "_blank"
-          }
-        },
-        "template--18508174426409__ed1c661f-a07f-493d-b805-859f35f9edc0-168084287565270e69-1": {
-          "type": "image_banner",
-          "settings": {
-            "banner_type": "image",
-            "banner_width": "4",
-            "background_color": "",
-            "video_options": "local",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "link": "",
-            "color": "default",
-            "content_spacing": "default",
-            "text_size": "small_3",
-            "h_text_weight": 600,
-            "title": "Sale Off Unlimited - Buy 1 Get 2",
-            "subtext": "",
-            "content": "<p>Save 80% on order more than $599. Delivery in 1 days. Apply for the first 1k Customers.<\/p>",
-            "button_type": "primary",
-            "btn_content": "",
-            "open_link": "_blank"
-          }
-        },
-        "fda29d14-dcf0-4839-b583-bb1d97bb00e1": {
-          "type": "image_banner",
-          "settings": {
-            "banner_type": "image",
-            "banner_width": "4",
-            "background_color": "",
-            "video_options": "local",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "link": "",
-            "color": "default",
-            "content_spacing": "default",
-            "text_size": "small_3",
-            "h_text_weight": 600,
-            "title": "Hurry Up - Smartphone Only $299",
-            "subtext": "",
-            "content": "<p>All smartphone products at the same price $299. Delivery in 1 days. Apply for the first 1k Customers.<\/p>",
-            "button_type": "primary",
-            "btn_content": "",
-            "open_link": "_blank"
-          }
-        }
-      },
-      "block_order": [
-        "template--18508174426409__ed1c661f-a07f-493d-b805-859f35f9edc0-168084287565270e69-0",
-        "template--18508174426409__ed1c661f-a07f-493d-b805-859f35f9edc0-168084287565270e69-1",
-        "fda29d14-dcf0-4839-b583-bb1d97bb00e1"
-      ],
-      "settings": {
-        "show_heading_header": true,
-        "heading": "Deals & Promotions",
-        "description": "",
-        "text_alignment": "text-left",
-        "container": "container-fluid",
-        "hover_effect": "zoom",
-        "design_banner": "text-below-image",
-        "text_position": "top",
-        "text_align": "text-left",
-        "content_on_mobile": false,
-        "column_gap": 30,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
-    "30c7af88-821e-458e-b0b2-60d4e544b18c": {
-      "type": "divider",
-      "settings": {
-        "container": "full-width",
-        "border_height": 1,
-        "border_color": "#e5e8ec",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": true
       }
     },
     "a33b07e7-4bfe-49be-b75c-f5ca36b7975d": {
@@ -547,17 +398,6 @@
         "text_color": "default",
         "padding_top": 34,
         "padding_bottom": 10,
-        "reset_spacing": true
-      }
-    },
-    "08877496-16c6-4621-94ca-b372ea143f40": {
-      "type": "divider",
-      "settings": {
-        "container": "full-width",
-        "border_height": 1,
-        "border_color": "#e5e8ec",
-        "padding_top": 0,
-        "padding_bottom": 0,
         "reset_spacing": true
       }
     },
@@ -664,16 +504,12 @@
     }
   },
   "order": [
+    "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
-    "53977b27-8ae3-4aaf-beff-afbce4923722",
-    "ba5b69ae-3c60-4f49-8c9f-f8c8aa5c99c6",
     "c1fdb0ad-db54-433c-b92b-3c7ffe1b276b",
-    "ed1c661f-a07f-493d-b805-859f35f9edc0",
-    "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "a33b07e7-4bfe-49be-b75c-f5ca36b7975d",
-    "08877496-16c6-4621-94ca-b372ea143f40",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
     "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
