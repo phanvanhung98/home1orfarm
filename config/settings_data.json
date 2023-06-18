@@ -564,13 +564,20 @@
               "style_contant": true,
               "width": "33%"
             }
+          },
+          "2c32b4e2-af99-4624-9e49-b91c347c6847": {
+            "type": "spacing",
+            "settings": {
+              "width": "100%"
+            }
           }
         },
         "block_order": [
           "66e258af-c393-4b5c-b25b-057fd161df52",
           "9c59603c-6b55-4b13-98a4-c05c4f1f3038",
           "76e440bc-ed64-49ce-9dd4-1b5b5b46645d",
-          "41564fc0-b120-4800-8be9-86cdbe058460"
+          "41564fc0-b120-4800-8be9-86cdbe058460",
+          "2c32b4e2-af99-4624-9e49-b91c347c6847"
         ],
         "settings": {
           "container": "container-fluid",
