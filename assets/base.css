@@ -1528,7 +1528,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     padding:1rem 2rem;
     border-color: #fff;
     font-size:calc(var(--base-font-size) - 2px);
-    min-width:0;
+    min-width:0
 }
 .bls__newsletter-form .form-action input[type=email]::placeholder{
     color:var(--footer-text-color)
@@ -1547,7 +1547,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     right: 3px;
     bottom: 3px;
     border-radius: 3px;
-    font-family: var(--base-font-family);
+    font-family: Jost;
 }
 .bls__social-link .list-social__item:first-child a{
     padding-left:0
