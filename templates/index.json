@@ -29,6 +29,7 @@
         "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0": {
           "type": "slider_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bgr-slide1.png",
             "content_box": "content_in_container_fluid",
             "content_custom_width": false,
             "content_width": 100,
@@ -51,6 +52,7 @@
         "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-1": {
           "type": "slider_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bgr-slide1.png",
             "content_box": "content_in_container_fluid",
             "content_custom_width": false,
             "content_width": 100,
