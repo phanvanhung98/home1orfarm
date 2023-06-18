@@ -654,7 +654,7 @@
         "content_text_alignment": "text-center",
         "text_color": "text-white",
         "padding_top": 100,
-        "padding_bottom": 50,
+        "padding_bottom": 14,
         "reset_spacing": false
       }
     }
