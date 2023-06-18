@@ -3339,6 +3339,10 @@ body .gclose svg,body .gnext svg,body .gprev svg{
 .bls__shipping .bls__section_shipping-content {
     margin-top: 10px !important;
 }
-
+.bgr-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
