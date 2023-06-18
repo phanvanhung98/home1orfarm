@@ -1432,7 +1432,7 @@ header svg{
 .bls__footer-bottom a {
     color:var(--footer-bottom-link-color)
 }
-.bls__footer-bottom .bls-des-newsletter p {
+.footer .bls__footer_block .bls-des-newsletter p {
     color:var(--footer-newsletter-text-color)
 }
 .bls__footer-bottom .custom-footer {
