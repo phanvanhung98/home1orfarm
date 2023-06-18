@@ -3339,7 +3339,7 @@ body .gclose svg,body .gnext svg,body .gprev svg{
 .bls__shipping .bls__section_shipping-content {
     margin-top: 10px !important;
 }
-.bls__section_shipping-inner .bls__section_shipping-content:hover {
+.bls__section_shipping-inner:hover .bls__responsive-image img {
   
 }
 
