@@ -235,7 +235,7 @@
         "column_gap": 30,
         "carousel_autoplay": false,
         "carousel_loop": false,
-        "carousel_arrows": false,
+        "carousel_arrows": true,
         "carousel_bullets": false,
         "show_bullet_mobile": false,
         "view_all_enable": false,
