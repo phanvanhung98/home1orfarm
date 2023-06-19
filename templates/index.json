@@ -249,8 +249,8 @@
         "banner_position": "position-left",
         "banner_link": "",
         "banner_width": 30,
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "reset_spacing": false
       }
     },
