@@ -548,7 +548,7 @@
         "94100795-daa8-41f3-878a-64ba95e63fd7"
       ],
       "settings": {
-        "heading": "",
+        "heading": "What's Hot Items",
         "description": "",
         "text_alignment": "text-center",
         "container": "container",
@@ -561,7 +561,7 @@
         "column_gap": 30,
         "carousel_autoplay": false,
         "carousel_loop": false,
-        "carousel_arrows": false,
+        "carousel_arrows": true,
         "carousel_bullets": false,
         "show_bullet_mobile": false,
         "number_of_rows": 1,
