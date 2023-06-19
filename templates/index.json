@@ -378,7 +378,7 @@
           "settings": {
             "countdown_design": "countdown_design_1",
             "bn_end_time": "11-10-2023",
-            "bn_txt_color": "",
+            "bn_txt_color": "#ffffff",
             "bn_txt_fs": 18,
             "number_txt_fs": 36,
             "bn_txt_fw": 400,
