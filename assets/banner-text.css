@@ -130,6 +130,7 @@
 .bls__banner-text--button {
     margin-top: var(--b-mt);
     margin-bottom: var(--b-mb);
+    margin-left: var(--b-ml);
 }
 
 .bls__banner-text--des p {
