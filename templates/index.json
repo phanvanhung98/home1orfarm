@@ -510,7 +510,7 @@
         "video_options": "local",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "link": "",
-        "hover_effect": "zoom",
+        "hover_effect": "none",
         "bn_design": "text_overlay",
         "banner_height": "custom-height",
         "height_dk": 800,
