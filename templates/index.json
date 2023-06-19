@@ -353,7 +353,7 @@
         "tab_style": "tab_desgin_1",
         "tab_type": "carousel",
         "limit_products": 8,
-        "item_desktop": 5,
+        "item_desktop": 6,
         "column_gap": 30,
         "carousel_autoplay": false,
         "carousel_loop": false,
