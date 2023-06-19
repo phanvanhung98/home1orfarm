@@ -221,6 +221,39 @@
         "reset_spacing": false
       }
     },
+    "013bfe19-2c6a-4bc8-88b4-1577ecaa831d": {
+      "type": "products-carousel",
+      "settings": {
+        "heading": "Weekly Food Offers",
+        "description": "<p>The liber tempor cum soluta nobis eleifend option congue doming quod mazim.<\/p>",
+        "text_alignment": "text-center",
+        "container": "container",
+        "product_carousel_background_color": "",
+        "collection": "",
+        "limit_products": 8,
+        "item_desktop": 6,
+        "column_gap": 30,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_bullets": false,
+        "show_bullet_mobile": false,
+        "view_all_enable": false,
+        "text_view_all": "View All",
+        "enable_banner": false,
+        "banner_type": "image",
+        "video_options": "local",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "desktop_height": 650,
+        "mobile_height": 300,
+        "banner_position": "position-left",
+        "banner_link": "",
+        "banner_width": 30,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f": {
       "type": "banner-image",
       "blocks": {
@@ -573,50 +606,17 @@
         "padding_bottom": 14,
         "reset_spacing": false
       }
-    },
-    "013bfe19-2c6a-4bc8-88b4-1577ecaa831d": {
-      "type": "products-carousel",
-      "settings": {
-        "heading": "Weekly Food Offers",
-        "description": "<p>The liber tempor cum soluta nobis eleifend option congue doming quod mazim.<\/p>",
-        "text_alignment": "text-center",
-        "container": "container",
-        "product_carousel_background_color": "",
-        "collection": "",
-        "limit_products": 8,
-        "item_desktop": 6,
-        "column_gap": 30,
-        "carousel_autoplay": false,
-        "carousel_loop": false,
-        "carousel_arrows": false,
-        "carousel_bullets": false,
-        "show_bullet_mobile": false,
-        "view_all_enable": false,
-        "text_view_all": "View All",
-        "enable_banner": false,
-        "banner_type": "image",
-        "video_options": "local",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "desktop_height": 650,
-        "mobile_height": 300,
-        "banner_position": "position-left",
-        "banner_link": "",
-        "banner_width": 30,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
     }
   },
   "order": [
     "30c7af88-821e-458e-b0b2-60d4e544b18c",
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
+    "013bfe19-2c6a-4bc8-88b4-1577ecaa831d",
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "3131381f-bb73-4eab-8cab-291875a3280e",
     "d7c940ee-feba-414f-b29c-58988dbc7462",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
-    "eb0df996-68fb-47e7-aa68-69f9163862b0",
-    "013bfe19-2c6a-4bc8-88b4-1577ecaa831d"
+    "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
 }
