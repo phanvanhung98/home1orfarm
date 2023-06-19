@@ -11,6 +11,7 @@
     assign height_mb = st.height_mb
     assign design = st.design
     assign bullet_color = st.bullet_color
+    assign subheading_color = st.subheading_color
     assign reset_spacing = ''
     if st.reset_spacing
         assign reset_spacing = ' remove_spacing'
@@ -61,6 +62,7 @@
   --section-description-font-size: {{ st.description_font_size }}px;
   --section-description-font-weight: {{ st.description_font_weight }};
   --bullet-color: {{ bullet_color }};
+  --subheading-color: {{ subheading_color }};
 {%- endcapture -%}
 <section
   id="{{ section.id }}"
@@ -172,7 +174,7 @@
                       style="--content-width:{{ content_width }}%;{%- if content_background_color != blank -%}--content-bg: {{ content_background_color }};{%- endif -%}--content-opacity:{{ content_opacity }}%;">
                       {% if bk_st.subheading != blank %}
                         <div
-                          class="slide__block-subtitle heading-color">{{ bk_st.subheading }}</div>
+                          class="slide__block-subtitle heading-color uppercase">{{ bk_st.subheading }}</div>
                       {% endif %}
                       {% if bk_st.title != blank %}
                         <h2
@@ -563,6 +565,12 @@
       "id": "bullet_color",
       "label": "Bullet color",
       "default": "#111111"
+    },
+    {
+      "type": "color",
+      "id": "subheading_color",
+      "label": "Sub Heading color",
+      "default": "#96AE00"
     },
     {
       "type": "checkbox",
