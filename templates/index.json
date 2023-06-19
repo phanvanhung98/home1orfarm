@@ -395,7 +395,7 @@
             "button_link": "",
             "button_target": false,
             "b_mt": 0,
-            "b_ml": 20,
+            "b_mr": 20,
             "b_mb": 15
           }
         },
@@ -407,7 +407,7 @@
             "button_link": "",
             "button_target": false,
             "b_mt": 0,
-            "b_ml": 0,
+            "b_mr": 0,
             "b_mb": 15
           }
         }
