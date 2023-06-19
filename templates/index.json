@@ -254,6 +254,32 @@
         "reset_spacing": false
       }
     },
+    "c94594a7-607b-4840-8d8d-5a87a7061580": {
+      "type": "product-single",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "bg_color": "",
+        "single_product": "soda-sparkling-water-maker-rose-gold",
+        "column_gap": 20,
+        "show_review": true,
+        "show_short_description": true,
+        "show_vendor": true,
+        "show_sku": true,
+        "show_type": true,
+        "show_available": true,
+        "show_collection": true,
+        "button_animation": "flash-move",
+        "show_buy_now": true,
+        "show_countdown": false,
+        "countdown_message": "Hurry up! Sale end in:",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "reset_spacing": false
+      }
+    },
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f": {
       "type": "banner-image",
       "blocks": {
@@ -537,32 +563,6 @@
         "reset_spacing": false
       }
     },
-    "c94594a7-607b-4840-8d8d-5a87a7061580": {
-      "type": "product-single",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "text-center",
-        "container": "container",
-        "bg_color": "",
-        "single_product": "soda-sparkling-water-maker-rose-gold",
-        "column_gap": 20,
-        "show_review": true,
-        "show_short_description": true,
-        "show_vendor": true,
-        "show_sku": true,
-        "show_type": true,
-        "show_available": true,
-        "show_collection": true,
-        "button_animation": "flash-move",
-        "show_buy_now": true,
-        "show_countdown": false,
-        "countdown_message": "Hurry up! Sale end in:",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "reset_spacing": false
-      }
-    },
     "eb0df996-68fb-47e7-aa68-69f9163862b0": {
       "type": "icon-box",
       "blocks": {
@@ -639,11 +639,11 @@
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
     "013bfe19-2c6a-4bc8-88b4-1577ecaa831d",
+    "c94594a7-607b-4840-8d8d-5a87a7061580",
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "3131381f-bb73-4eab-8cab-291875a3280e",
     "d7c940ee-feba-414f-b29c-58988dbc7462",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
-    "c94594a7-607b-4840-8d8d-5a87a7061580",
     "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
 }
