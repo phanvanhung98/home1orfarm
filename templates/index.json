@@ -107,7 +107,7 @@
         "show_bullet_desktop": true,
         "show_bullet_mobile": false,
         "bullet_color": "#96ae00",
-        "subheading_color": "#96AE00",
+        "subheading_color": "#96ae00",
         "autoplay": true,
         "autorotate_speed": 9,
         "padding_top": 0,
@@ -353,7 +353,7 @@
           "type": "heading",
           "settings": {
             "title": "Heading",
-            "heading_color": "#111",
+            "heading_color": "#111111",
             "heading_fs": 40,
             "heading_fw": 500,
             "heading_tf": "unset",
@@ -395,6 +395,7 @@
             "button_link": "",
             "button_target": false,
             "b_mt": 0,
+            "b_ml": 20,
             "b_mb": 15
           }
         },
@@ -406,6 +407,7 @@
             "button_link": "",
             "button_target": false,
             "b_mt": 0,
+            "b_ml": 0,
             "b_mb": 15
           }
         }
