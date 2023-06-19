@@ -365,7 +365,7 @@
           "type": "text",
           "settings": {
             "txt_content": "<p>The liber tempor cum soluta nobis eleifend option congue<br\/>doming quod mazim placerat facere possum assam going through.<\/p>",
-            "txt_color": "",
+            "txt_color": "#ffffff",
             "txt_fs": 16,
             "txt_fw": 400,
             "txt_tf": "unset",
