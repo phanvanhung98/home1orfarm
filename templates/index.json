@@ -516,6 +516,63 @@
         "padding_bottom": 14,
         "reset_spacing": false
       }
+    },
+    "3131381f-bb73-4eab-8cab-291875a3280e": {
+      "type": "collection-tab",
+      "blocks": {
+        "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-0": {
+          "type": "collection",
+          "settings": {
+            "title": "Fresh Meat",
+            "collection": ""
+          }
+        },
+        "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-1": {
+          "type": "collection",
+          "settings": {
+            "title": "Fresh Vegetables",
+            "collection": ""
+          }
+        },
+        "94100795-daa8-41f3-878a-64ba95e63fd7": {
+          "type": "collection",
+          "settings": {
+            "title": "Biscuits Snack",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-0",
+        "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-1",
+        "94100795-daa8-41f3-878a-64ba95e63fd7"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "bg_color": "",
+        "tab_design": "horizontal",
+        "tab_style": "tab_desgin_1",
+        "tab_type": "grid",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_bullets": false,
+        "show_bullet_mobile": false,
+        "number_of_rows": 1,
+        "load_more_button_enable": false,
+        "button_action": "load",
+        "button_label": "Load more",
+        "button_type": "primary",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -525,6 +582,7 @@
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "d7c940ee-feba-414f-b29c-58988dbc7462",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
-    "eb0df996-68fb-47e7-aa68-69f9163862b0"
+    "eb0df996-68fb-47e7-aa68-69f9163862b0",
+    "3131381f-bb73-4eab-8cab-291875a3280e"
   ]
 }
