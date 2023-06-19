@@ -373,6 +373,20 @@
             "txt_mb": 25
           }
         },
+        "eaa1bd5c-4fcf-4f9a-b808-a7ab38efe6ae": {
+          "type": "countdown_bn",
+          "settings": {
+            "countdown_design": "countdown_design_1",
+            "bn_end_time": "11-10-2023",
+            "bn_txt_color": "",
+            "bn_txt_fs": 18,
+            "number_txt_fs": 36,
+            "bn_txt_fw": 400,
+            "bn_txt_tf": "unset",
+            "bn_txt_mt": 0,
+            "bn_txt_mb": 25
+          }
+        },
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-2": {
           "type": "buttons",
           "settings": {
@@ -388,6 +402,7 @@
       "block_order": [
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-0",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-1",
+        "eaa1bd5c-4fcf-4f9a-b808-a7ab38efe6ae",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-2"
       ],
       "settings": {
