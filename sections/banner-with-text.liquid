@@ -209,7 +209,7 @@
               assign img_mb = bs.text_img_mb
               assign button_type = bs.button_type
               assign b_mt = bs.b_mt
-              assign b_ml = bs.b_ml
+              assign b_mr = bs.b_mr
               assign b_mb = bs.b_mb
 
               assign countdown_design = bs.countdown_design
@@ -271,7 +271,7 @@
                       target="_self"
                     {% endif %}
                     class="{% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} bls__banner-text--button whitespace-nowrap btn-{{ button_type }} inline-block"
-                    style=" --b-mt: {{ b_mt }}px; --b-ml: {{ b_ml }}px; --b-mb: {{ b_mb }}px;"
+                    style=" --b-mt: {{ b_mt }}px; --b-ml: {{ b_mr }}px; --b-mb: {{ b_mb }}px;"
                   >
                     {{ block.settings.btn_content | escape }}
                   </a>
@@ -1050,7 +1050,7 @@
         },
         {
           "type": "range",
-          "id": "b_ml",
+          "id": "b_mr",
           "min": 0,
           "max": 100,
           "step": 1,
