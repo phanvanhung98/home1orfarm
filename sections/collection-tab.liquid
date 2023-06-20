@@ -6,6 +6,7 @@
   assign container = st.container
   assign bg_color = st.bg_color
   assign text_align = st.text_alignment
+  assign subheading = st.subheading
   assign heading = st.heading
   assign description = st.description
   assign enabled_animations = settings.animations_enabled
@@ -69,8 +70,13 @@
   data-type="product_grid"
 >
   <div class=" {{ container }} ">
-    {%- if heading != blank or description != blank -%}
+    {%- if subheading != blank or heading != blank or description != blank -%}
       <div class="bls__section-header {{ text_align }}">
+        {%- if subheading != blank -%}
+          <div class="bls__section-subheading mb-5">
+            {{ subheading }}
+          </div>
+        {%- endif -%}
         {%- if heading != blank -%}
           <h2 class="bls__section-heading mb-5 {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}">
             {{ heading }}
@@ -175,6 +181,11 @@
     {
       "type": "header",
       "content": "Section header"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub Heading"
     },
     {
       "type": "text",
