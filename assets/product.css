@@ -40,6 +40,18 @@
   display: inline-block;
 }
 
+/* Product Content */
+.bls__product-item {
+  overflow: hidden;
+ border-radius: 10px;
+ background-color: #fff;
+ border: 3px solid #fff;
+}
+.bls__product-item .bls__product-details {  
+  padding: 30px 20px;
+  
+}
+
 /* Biger price size */
 .biger-price {
   --bls__product-price-color: var(--heading-color);
