@@ -191,13 +191,12 @@
                         {{ subheading }}
                       </div>
                     {%- endif -%}
-                    {%- if heading != blank -%}
+                    {% if st.heading != blank %}
                       <h2
-                        class="bls__section-heading mb-5"
-                      >
-                        {{ heading }}
+                        class="slide__block-heading  mb-15">
+                        {{ st.heading }}
                       </h2>
-                    {%- endif -%}
+                    {% endif %}
                     {%- if description != blank -%}
                       <div
                         class="bls__section-des"
@@ -386,10 +385,11 @@
       "default": "~ The Best For Your ~"
     },
     {
-      "type": "text",
+      "type": "textarea",
       "id": "heading",
       "label": "Heading",
-      "default": "Bestseller Product"
+      "default": "Bestseller Product",
+      "info": "Allow custom HTML"
     },
     {
       "type": "richtext",
@@ -455,7 +455,7 @@
       "type": "select",
       "id": "text_alignment",
       "label": "Text alignment",
-      "default": "text-left",
+      "default": "text-center",
       "options": [
         {
           "value": "text-left",
