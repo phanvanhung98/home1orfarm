@@ -136,7 +136,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 
 .bls__section-list-products .bls__product-label>div {
-  border-radius: 12px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
