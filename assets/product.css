@@ -118,7 +118,7 @@ section:not(.bls__product-single) .bls__product-details,
 .spr-icon-star:before,
 .spr-icon.spr-icon-star:before,
 .spr-icon-star-empty:before {
-  content: "\ea5a";
+  content: "\e9f9";
 }
 
 .bls__product-item .spr-badge {
