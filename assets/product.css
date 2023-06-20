@@ -2,8 +2,9 @@
 /* Product infor */
 .bls__product-name {
   color: var(--bls__product-name-color);
-  font-size: var(--bls__product-name-size);
+  font-size: 16px;
   font-weight: var(--bls__product-name-weight);
+  line-height: 21px;
 }
 
 .bls__product-type,
