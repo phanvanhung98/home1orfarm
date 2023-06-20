@@ -7,6 +7,7 @@
   assign bg_color = st.product_carousel_background_color
   assign text_align = st.text_alignment
   assign heading = st.heading
+  assign subheading = st.subheading
   assign description = st.description
   assign view_all_enable = st.view_all_enable
   assign text_view_all = st.text_view_all
@@ -90,8 +91,11 @@
   data-type="product_carousel"
 >
   <div class=" {{ container }} ">
-    {%- if heading != blank or description != blank -%}
+    {%- if subheading != blank or heading != blank or description != blank -%}
       <div class="bls__section-header {{ text_align }} {% if text_view_all -%}text-view-all{% endif %} {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}">
+        {%- if subheading != blank -%}
+          <div class="bls__section-heading mb-5">{{ subheading }}</div>
+        {%- endif -%}
         {%- if heading != blank -%}
           <h2 class="bls__section-heading mb-5">{{ heading }}</h2>
         {%- endif -%}
@@ -179,6 +183,10 @@
     {
       "type": "header",
       "content": "Section header"
+    },{
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub Heading"
     },
     {
       "type": "text",
