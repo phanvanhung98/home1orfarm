@@ -510,7 +510,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 
 .bls__grid.bls__product-style-2 .bls__product-details {
-  background-color: var(--color-white);
+  background-color: #F7F7F9;
   transition: var(--bls__product-transition);
 }
 
