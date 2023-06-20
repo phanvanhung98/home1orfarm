@@ -481,7 +481,7 @@
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-2": {
           "type": "buttons",
           "settings": {
-            "btn_content": "Add To Cart",
+            "btn_content": "Shop Now",
             "button_type": "primary",
             "button_link": "",
             "button_target": false,
@@ -493,7 +493,7 @@
         "3ace7c14-6bb9-49c5-9b23-58349f1d529a": {
           "type": "buttons",
           "settings": {
-            "btn_content": "View More",
+            "btn_content": "View Menu",
             "button_type": "primary",
             "button_link": "",
             "button_target": false,
