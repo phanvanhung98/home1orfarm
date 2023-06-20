@@ -80,7 +80,7 @@
 }
 
 .price-review .spr-badge-starrating .spr-icon {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .price-review+.bls__product-option {
@@ -111,7 +111,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 
 .spr-badge-starrating .spr-icon {
-  font-size: 12px;
+  font-size: 13px;
   margin-right: 1px;
   color: #FFB800;
   top: 0px;
