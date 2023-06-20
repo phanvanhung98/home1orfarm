@@ -540,7 +540,7 @@ body .spr-container {
 
 .spr-container .spr-icon {
   margin-right: 1px;
-  color: var(--heading-color);
+  color: #FFB800;
 }
 
 .spr-summary.rte .spr-icon.spr-icon-star:before {
