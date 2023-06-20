@@ -14,18 +14,18 @@
 
 .bls__product-price {
   font-size: var(--bls__product-price-size);
-  color: var(--bls__product-price-color);
+  color: #EA0D42;
   font-weight: var(--bls__product-price-weight);
 }
 
 .bls__product-price .compare-price {
-  color: var(--bls__product-price-sale-color);
+  color: #EA0D42;
   font-weight: var(--bls__product-price-sale-weight);
   padding-left: 0.5rem;
 }
 
 .bls__product-price .special-price {
-  color: var(--primary-color);
+  ccolor: #EA0D42;
   font-weight: var(--bls__product-price-weight, var(--heading-font-weight));
 }
 
