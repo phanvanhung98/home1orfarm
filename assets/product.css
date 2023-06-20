@@ -314,6 +314,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 .bls__product-single-content .bls__section-heading-product-single {
   max-width: 510px;
+  margin-bottom: 50px;
 }
 .bls__product-single-content .bls__section-des {
   font-size: 16px;
