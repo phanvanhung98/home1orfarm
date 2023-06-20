@@ -315,6 +315,11 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-heading-product-single {
   max-width: 510px;
 }
+.bls__product-single-content .bls__section-des {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+}
 /* End Section Product Single */
 
 /* Product have more row */
