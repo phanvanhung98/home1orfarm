@@ -308,6 +308,9 @@ section:not(.bls__product-single) .bls__product-details,
   background-color: transparent;
   border: none;
 }
+.bls__product-single-content .bls__product-item .slide__block-heading {
+  font-size: 40px;
+}
 /* End Section Product Single */
 
 /* Product have more row */
