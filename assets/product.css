@@ -321,6 +321,9 @@ section:not(.bls__product-single) .bls__product-details,
   font-weight: 400;
   line-height: 23px;
 }
+.bls__product-single-content .bls__section-content-product-single {
+  margin-bottom: 40px;
+}
 /* End Section Product Single */
 
 /* Product have more row */
