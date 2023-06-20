@@ -303,6 +303,13 @@ section:not(.bls__product-single) .bls__product-details,
   --bls__product-icon-radius: 50%;
 }
 
+/* Section Product Single */
+.bls__product-single-content .bls__product-item {
+  background-color: transparent;
+  border: none;
+}
+/* End Section Product Single */
+
 /* Product have more row */
 .bls__section.bls__product {
   margin-bottom: calc(var(--space_between_section) - var(--bls_product-item-vertical-space, 0px));
