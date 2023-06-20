@@ -224,6 +224,7 @@
     "013bfe19-2c6a-4bc8-88b4-1577ecaa831d": {
       "type": "products-carousel",
       "settings": {
+        "subheading": "~ Our Products ~",
         "heading": "Weekly Food Offers",
         "description": "<p>The liber tempor cum soluta nobis eleifend option congue doming quod mazim.<\/p>",
         "text_alignment": "text-center",
