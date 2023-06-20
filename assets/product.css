@@ -111,9 +111,9 @@ section:not(.bls__product-single) .bls__product-details,
 }
 
 .spr-badge-starrating .spr-icon {
-  font-size: 9px;
+  font-size: 12px;
   margin-right: 1px;
-  color: var(--heading-color);
+  color: #FFB800;
   top: 0px;
 }
 
