@@ -27,9 +27,6 @@
 .bls__product-price .special-price {
   ccolor: #EA0D42;
   font-weight: 600;
-  font-size: 15px;
-  transform: translateY(-1px);
-  display: inline-block;
 }
 
 .price__sale {
@@ -42,6 +39,8 @@
 
 .price--on-sale .price__sale {
   display: inline-block;
+  font-size: 15px;
+  transform: translateY(-1px);
 }
 
 /* Product Content */
