@@ -15,7 +15,7 @@
 .bls__product-price {
   font-size: var(--bls__product-price-size);
   color: #EA0D42;
-  font-weight: var(--bls__product-price-weight);
+  font-weight: 600;
 }
 
 .bls__product-price .compare-price {
