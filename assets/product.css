@@ -184,7 +184,7 @@ section:not(.bls__product-single) .bls__product-details,
 
 .label-depend-on-button .bls__product-label>div,
 .label-depend-on-button .bls__product-label {
-  border-radius: 12px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
