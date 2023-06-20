@@ -28,6 +28,8 @@
   ccolor: #EA0D42;
   font-weight: 600;
   font-size: 15px;
+  transform: translateY(-1px);
+  display: inline-block;
 }
 
 .price__sale {
