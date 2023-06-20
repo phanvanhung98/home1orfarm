@@ -155,7 +155,8 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-label>div {
   padding: 6px 9px;
   line-height: 1;
-  font-size: 13px;
+  font-size: 12px;
+  font-weight: 500;
   text-transform: capitalize;
   color: var(--product-label-color);
   background-color: #12B7CE;
