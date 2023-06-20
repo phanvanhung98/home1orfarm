@@ -381,36 +381,28 @@
           "type": "collection",
           "settings": {
             "title": "Fresh Meat",
-            "collection": ""
+            "collection": "fresh-meat"
           }
         },
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-1": {
           "type": "collection",
           "settings": {
             "title": "Fresh Vegetables",
-            "collection": ""
+            "collection": "fresh-vegetables"
           }
         },
         "94100795-daa8-41f3-878a-64ba95e63fd7": {
           "type": "collection",
           "settings": {
             "title": "Biscuits Snack",
-            "collection": ""
-          }
-        },
-        "96ac4625-19b6-4143-a641-1864d628c43b": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": ""
+            "collection": "biscuits-snack"
           }
         }
       },
       "block_order": [
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-0",
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-1",
-        "94100795-daa8-41f3-878a-64ba95e63fd7",
-        "96ac4625-19b6-4143-a641-1864d628c43b"
+        "94100795-daa8-41f3-878a-64ba95e63fd7"
       ],
       "settings": {
         "subheading": "~ Our Products ~",
