@@ -1649,7 +1649,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__section-heading{
     font-weight:var(--bls__section-heading-weight,var(--heading-font-weight))
 }
-.bls__section-header .bls__section-sub-heading { 
+.bls__section-sub-heading { 
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
