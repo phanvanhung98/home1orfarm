@@ -277,10 +277,10 @@
                             class="bls__product-action-inner"
                             style="--bls__product-icon-radius: var(--btn-border-radius);"
                           >
-                            <button
+                            <button 
                               type="submit"
                               name="add"
-                              class="{%- if enable_catalog_mode %}d-none {% endif %}product-form__submit relative whitespace-nowrap min-height-48 animation {{ st.button_animation }}"
+                              class="{%- if enable_catalog_mode %}d-none {% endif %}product-form__submit mr-20 relative whitespace-nowrap min-height-48 animation {{ st.button_animation }}"
                               {% if product.selected_or_first_available_variant.available == false %}
                                 disabled
                               {% endif %}
@@ -306,6 +306,26 @@
                                 class="loader-icon"
                               ></span>
                             </button>
+
+                            {%- if st.btn_content != blank -%}
+                              <a
+                                {% if st.button_link == blank %}
+                                  role="link"
+                                  aria-disabled="true"
+                                  href="{{ link }}"
+                                {% else %}
+                                  href="{{ st.button_link }}"
+                                {% endif %}
+                                {% if st.button_target == true %}
+                                  target="_blank"
+                                {% else %}
+                                  target="_self"
+                                {% endif %}
+                                class="bls__product-single-button whitespace-nowrap btn-primary inline-block">
+                                {{ st.btn_content | escape }}
+                              </a>
+                            {%- endif -%}
+
                           </div>
                         </div>
                       {%- endform -%}
@@ -318,7 +338,7 @@
                       class="btn product-form__submit text-center relative w-full whitespace-nowrap min-height-48 animation flash-move"
                     >
                       {{- product.metafields.custom.external_affiliate.value.button_text -}}
-                    </a>
+                    </a>           
                   {%- endif -%}
                 </div>
                 {%- if th_st.use_stock_notify -%}
@@ -445,6 +465,12 @@
       "id": "content_product4",
       "label": "Content Product",
       "default": "500ml - 1000ml"
+    },
+    {
+      "type": "text",
+      "id": "btn_content",
+      "label": "Button Text",
+      "default": "View More"
     },
     {
       "type": "image_picker",
