@@ -135,6 +135,7 @@ section:not(.bls__product-single) .bls__product-details,
 
 .bls__product-item .spr-badge {
   line-height: 1.5;
+  margin-top: 6px;
 }
 
 .bls__product-item .spr-badge-caption {
