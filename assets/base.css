@@ -1689,7 +1689,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     padding-bottom:0
 }
 .product-images-style-radius .bls__product-item .bls__product-img>a,.product-images-style-radius .bls__responsive-image.bls__product-grid,.product-images-style-radius .bls__template-main-product .bls__product-gallery,.product-images-style-radius .bls__template-main-product .gallery-img{
-    border-radius:var(--product-images-style-radius,10px);
+/*     border-radius:var(--product-images-style-radius,10px); */
     overflow:hidden;
     position:relative;
     display:block;
