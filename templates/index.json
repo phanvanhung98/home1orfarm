@@ -117,29 +117,105 @@
     },
     "48263d1a-f37b-4715-893a-ac5dfd296a1a": {
       "type": "collection-list",
+      "blocks": {
+        "73eafcc3-09f2-4a4c-8747-473d2b82ad4c": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Vegetables",
+            "collection": "collection-nutritional-water",
+            "image": "shopify:\/\/shop_images\/clt-f-1.jpg"
+          }
+        },
+        "583ecc39-ad8d-471d-9bbc-06b3459bbdc0": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Fresh Fruits",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-2.jpg"
+          }
+        },
+        "167123eb-2e84-4c8a-a866-cf0551eee5cc": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Fruit Drink",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-3.jpg"
+          }
+        },
+        "cf445b9b-d0e0-4723-9abd-e048e042323b": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Fresh Bakery",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-4.jpg"
+          }
+        },
+        "9644dda7-490b-450f-837b-04e8c15196f6": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Biscuits Snack",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-5.jpg"
+          }
+        },
+        "13809c04-25b6-4a14-835b-0402ecaf1dde": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Fresh Meat",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-6.jpg"
+          }
+        },
+        "11727108-d50d-428f-bad3-6e0dadbeb7f6": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Fresh Milk",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-7.jpg"
+          }
+        },
+        "6d0e3131-57af-4574-bbb9-bed72f510ffe": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Sea Foods",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/clt-f-8.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "73eafcc3-09f2-4a4c-8747-473d2b82ad4c",
+        "583ecc39-ad8d-471d-9bbc-06b3459bbdc0",
+        "167123eb-2e84-4c8a-a866-cf0551eee5cc",
+        "cf445b9b-d0e0-4723-9abd-e048e042323b",
+        "9644dda7-490b-450f-837b-04e8c15196f6",
+        "13809c04-25b6-4a14-835b-0402ecaf1dde",
+        "11727108-d50d-428f-bad3-6e0dadbeb7f6",
+        "6d0e3131-57af-4574-bbb9-bed72f510ffe"
+      ],
       "settings": {
-        "subheading": "~ Our Products ~",
-        "heading": "What's Hot Items",
+        "heading": "",
         "description": "",
         "text_alignment": "text-center",
         "container": "container-fluid",
-        "bg_color": "",
-        "tab_design": "horizontal",
-        "tab_style": "tab_desgin_1",
-        "tab_type": "grid",
-        "limit_products": 8,
-        "item_desktop": 4,
+        "background_color": "",
+        "design_layout": "carousel",
+        "design_collection": "design-1",
+        "hover_effect": "zoom",
+        "show_count_product": true,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": "square",
+        "image_ratio": "3\/4",
+        "custom_ratio": "21:9",
+        "custom_column": 6,
         "column_gap": 20,
-        "carousel_autoplay": false,
-        "carousel_loop": false,
-        "carousel_arrows": false,
-        "carousel_bullets": false,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": false,
+        "show_bullet": false,
         "show_bullet_mobile": false,
-        "number_of_rows": 1,
-        "load_more_button_enable": false,
-        "button_action": "load",
-        "button_label": "Load more",
-        "button_type": "primary",
+        "reveal_on_scroll": false,
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
@@ -336,6 +412,7 @@
         "96ac4625-19b6-4143-a641-1864d628c43b"
       ],
       "settings": {
+        "subheading": "",
         "heading": "What's Hot Items",
         "description": "",
         "text_alignment": "text-center",
