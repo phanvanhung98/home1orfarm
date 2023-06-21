@@ -339,6 +339,10 @@ section:not(.bls__product-single) .bls__product-details,
 }
 .bls__product-single-content .bls__section-content-product-single .bls__item-label {
   border-bottom: 1px dashed #C2C2D3;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #2D2A6E;
 }
 
 
