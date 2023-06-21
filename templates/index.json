@@ -526,9 +526,9 @@
           "type": "buttons",
           "settings": {
             "btn_content": "Shop Now",
-            "button_type": "primary",
-            "button_link": "",
-            "button_target": false,
+            "button_type": "secondary",
+            "button_link": "#",
+            "button_target": true,
             "b_mt": 0,
             "b_mr": 20,
             "b_mb": 15
