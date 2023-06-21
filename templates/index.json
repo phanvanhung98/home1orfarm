@@ -443,7 +443,7 @@
     "2ac3b5e1-563f-432a-8717-23d2ccef7113": {
       "type": "custom-html",
       "settings": {
-        "heading": "",
+        "heading": "<i class=\"icon-chevron-right\"><\/i><i class=\"icon-chevron-right\"><\/i>",
         "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products<\/a><\/p>",
         "text_alignment": "text-center",
         "container": "container",
