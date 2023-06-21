@@ -1010,7 +1010,7 @@ section:not(.bls__product-single) .bls__product-details,
   margin-bottom: 32px;
 }
 .bls__collection-tab .bls__collection-tab-content .bls__product-item {
-  margin-bottom: 0 !important;
+  margin-bottom: 4px !important;
 }
 .tab-desgin-1 .bls__collection-tab-item {
   color: var(--heading-color);
