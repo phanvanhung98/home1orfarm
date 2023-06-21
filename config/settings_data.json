@@ -59,7 +59,7 @@
     "button_primary_hover_background_color": "#96ae00",
     "button_secondary_color": "#96ae00",
     "button_secondary_border_color": "#ffffff",
-    "button_secondary_hover_background_color": "#96ae00",
+    "button_secondary_hover_background_color": "rgba(0,0,0,0)",
     "space_for_desktop": 60,
     "space_for_tablet": 60,
     "space_for_mobile": 50,
