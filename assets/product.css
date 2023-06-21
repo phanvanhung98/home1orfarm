@@ -337,6 +337,10 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-content-product-single .bls__col-6 {
   width: 50%;
 }
+.bls__product-single-content .bls__section-content-product-single .bls__item-label {
+  border: 1px solid dashed;
+}
+
 
 /* End Section Product Single */
 
