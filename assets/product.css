@@ -1022,8 +1022,7 @@ section:not(.bls__product-single) .bls__product-details,
 
 .tab-desgin-1 .bls__collection-tab-item.active,
 .tab-desgin-1 .bls__collection-tab-item:hover {
-  background-color: var(--light-grey-color);
-  color: var(--heading-color);
+  color: var(--primary-color);
 }
 
 .tab-desgin-2 .bls__collection-tab-item {
