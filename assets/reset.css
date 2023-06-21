@@ -558,7 +558,7 @@ button:not(.btn-reset):hover svg path,
 .btn-secondary:hover {
   background-color: var(--btn-secondary-bg-hover);
   color: var(--btn-secondary-color-hover);
-  border-color: var(--btn-secondary-bg-hover);
+  border-color: var(--btn-secondary-color-hover);
 }
 
 .btn-link {
