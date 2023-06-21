@@ -644,21 +644,7 @@
         "text_alignment": "text-center",
         "container": "container",
         "background_color": "",
-        "content_html": "<div class=\"text-center py-10 px-15 border\" style=\"color: #111;\">This is Custom HTML section<\/div>",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
-    "2fcb6f39-7a56-4d12-888c-1d6b35f90d30": {
-      "type": "custom-liquid",
-      "settings": {
-        "heading": "Custom liquid",
-        "description": "<p><\/p>",
-        "text_alignment": "text-center",
-        "container": "container",
-        "background_color": "",
-        "content_liquid": "",
+        "content_html": "",
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
@@ -676,7 +662,6 @@
     "d7c940ee-feba-414f-b29c-58988dbc7462",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
     "eb0df996-68fb-47e7-aa68-69f9163862b0",
-    "2ac3b5e1-563f-432a-8717-23d2ccef7113",
-    "2fcb6f39-7a56-4d12-888c-1d6b35f90d30"
+    "2ac3b5e1-563f-432a-8717-23d2ccef7113"
   ]
 }
