@@ -607,19 +607,19 @@ section:not(.bls__product-single) .bls__product-details,
 
   .bls__grid.bls__product-style-2 .bls__product-action {
     right: 0;
-    top: 1.5rem;
+    top: 1.7rem;
     bottom: auto;
   }
 
   /* Product style 2 hover effect */
   .bls__grid.bls__product-style-2 .bls__product-action {
-    top: 1.5rem;
+    top: 1.7rem;
     opacity: 0;
   }
 
   .bls__grid.bls__product-style-2 .bls__product-item:hover .bls__product-action {
     opacity: 1;
-    right: 1.5rem;
+    right: 1.7rem;
   }
 }
 
