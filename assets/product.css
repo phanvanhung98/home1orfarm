@@ -396,6 +396,10 @@ section:not(.bls__product-single) .bls__product-details,
   transition: all 250ms linear 0ms;
 } 
 
+.bls__product-action-inner .bls_tooltip-content {
+  border-radius: 3px !important;
+}
+
 .bls__product-icon:not(.origin-style).active svg path,
 .bls__product-icon:not(.origin-style):hover svg path {
   fill: var(--color-white);
