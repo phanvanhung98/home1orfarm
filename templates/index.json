@@ -487,13 +487,25 @@
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-1": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>The liber tempor cum soluta nobis eleifend option congue<br\/>doming quod mazim placerat facere possum assam going through.<\/p>",
+            "txt_content": "<p>The liber tempor cum soluta nobis eleifend option congue doming quod mazim placerat facere possum assam going through.<\/p>",
             "txt_color": "#ffffff",
             "txt_fs": 16,
             "txt_fw": 400,
             "txt_tf": "unset",
             "txt_mt": 0,
             "txt_mb": 25
+          }
+        },
+        "555ea0e0-e48e-45e8-b95a-45fefe2d5c86": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p>hurry up! Offer End In:<\/p>",
+            "txt_color": "#ffffff",
+            "txt_fs": 14,
+            "txt_fw": 700,
+            "txt_tf": "uppercase",
+            "txt_mt": 0,
+            "txt_mb": 0
           }
         },
         "eaa1bd5c-4fcf-4f9a-b808-a7ab38efe6ae": {
@@ -539,6 +551,7 @@
         "804cfada-e43e-4d78-a68f-3cbb4c8a4947",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-0",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-1",
+        "555ea0e0-e48e-45e8-b95a-45fefe2d5c86",
         "eaa1bd5c-4fcf-4f9a-b808-a7ab38efe6ae",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-2",
         "3ace7c14-6bb9-49c5-9b23-58349f1d529a"
