@@ -1010,7 +1010,6 @@ section:not(.bls__product-single) .bls__product-details,
 .tab-desgin-1 .bls__collection-tab-item {
   color: var(--heading-color);
   cursor: pointer;
-  font-size: var(--tab-size, 1.3rem);
   padding: 0.95rem 2rem;
   border-radius: var(--btn-border-radius);
   margin-bottom: 0;
@@ -1018,6 +1017,9 @@ section:not(.bls__product-single) .bls__product-details,
   text-transform: inherit;
   transition: var(--bls-transition);
   -webkit-transition: var(--bls-transition);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 23px;
 }
 
 .tab-desgin-1 .bls__collection-tab-item.active,
