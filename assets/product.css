@@ -364,8 +364,8 @@ section:not(.bls__product-single) .bls__product-details,
 
 /* Product action */
 .bls__product-icon:not(.origin-style) {
-  width: 4rem;
-  height: 4rem;
+  width: 3.2rem;
+  height: 3.2rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -373,13 +373,28 @@ section:not(.bls__product-single) .bls__product-details,
   background-color: var(--color-white);
   transition: var(--bls__product-transition, 0.4s);
   cursor: pointer;
+  border: 1px solid #E6EBF0;
+}
+
+.bls__product-icon:not(.origin-style) > svg{
+  transform: translateX(-1px);
+  transition: all 250ms linear 0ms;
+} 
+
+.bls__product-wishlist .bls__product-icon svg {
+  transform: translateX(-0.5px);
 }
 
 .bls__product-icon:not(.origin-style).active,
 .bls__product-icon:not(.origin-style):hover {
-  background-color: var(--heading-color);
-  border-color: var(--heading-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
 }
+
+.bls__product-icon:not(.origin-style) svg path,
+.bls__product-icon:not(.origin-style) svg path {
+  transition: all 250ms linear 0ms;
+} 
 
 .bls__product-icon:not(.origin-style).active svg path,
 .bls__product-icon:not(.origin-style):hover svg path {
