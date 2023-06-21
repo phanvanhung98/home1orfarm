@@ -1673,6 +1673,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
   font-weight: 400;
   font-size: 16px;
   line-height: 23px;
+  color: #4D5574
 }
 .bls__section.bls__custom-html .bls__section-header .bls__section-des p a {
   font-weight: 500;
