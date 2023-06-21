@@ -1029,7 +1029,7 @@ section:not(.bls__product-single) .bls__product-details,
     display: inline-block;
 }
 .bls__section-des a:after {
-    
+    right: 5px;
 }
 
 .tab-desgin-1 .bls__collection-tab-item {
