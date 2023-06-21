@@ -377,6 +377,13 @@
     "3131381f-bb73-4eab-8cab-291875a3280e": {
       "type": "collection-tab",
       "blocks": {
+        "ffad9df5-f3de-452d-a0e7-e4c6a622fcab": {
+          "type": "collection",
+          "settings": {
+            "title": "All Products",
+            "collection": "biscuits-snack"
+          }
+        },
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-0": {
           "type": "collection",
           "settings": {
@@ -397,20 +404,13 @@
             "title": "Biscuits Snack",
             "collection": "biscuits-snack"
           }
-        },
-        "ffad9df5-f3de-452d-a0e7-e4c6a622fcab": {
-          "type": "collection",
-          "settings": {
-            "title": "All Products",
-            "collection": "biscuits-snack"
-          }
         }
       },
       "block_order": [
+        "ffad9df5-f3de-452d-a0e7-e4c6a622fcab",
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-0",
         "template--19393301381415__3131381f-bb73-4eab-8cab-291875a3280e-1687162136e2887a86-1",
-        "94100795-daa8-41f3-878a-64ba95e63fd7",
-        "ffad9df5-f3de-452d-a0e7-e4c6a622fcab"
+        "94100795-daa8-41f3-878a-64ba95e63fd7"
       ],
       "settings": {
         "subheading": "~ Our Products ~",
