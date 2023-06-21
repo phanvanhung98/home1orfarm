@@ -317,7 +317,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 .bls__product-single-content .bls__section-heading-product-single {
   max-width: 510px;
-  margin-bottom: 40px;
+  margin-bottom: 39px;
 }
 .bls__product-single-content .bls__section-des {
   font-size: 16px;
@@ -325,7 +325,7 @@ section:not(.bls__product-single) .bls__product-details,
   line-height: 23px;
 }
 .bls__product-single-content .bls__section-content-product-single {
-  margin-bottom: 40px;
+  margin-bottom: 39px;
 }
 
 .bls__product-single-content .bls__section-content-product-single .row {
