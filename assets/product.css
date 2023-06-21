@@ -312,6 +312,9 @@ section:not(.bls__product-single) .bls__product-details,
   font-size: 40px;
   line-height: 1.075;
 }
+.bls__product-single-content .bls__section-des {
+  
+}
 .bls__product-single-content .bls__section-heading-product-single {
   max-width: 510px;
   margin-bottom: 40px;
