@@ -360,9 +360,9 @@ section:not(.bls__product-single) .bls__product-details,
   display: none;
 }
 .bls__product-single-content .bls__product-details {
-  
+  transform: translateY(10px);
 }
-transform: translateY(10px);
+
 
 /* End Section Product Single */
 
