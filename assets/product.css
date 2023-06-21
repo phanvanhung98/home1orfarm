@@ -375,6 +375,7 @@ section:not(.bls__product-single) .bls__product-details,
 
 .bls__section.has-bg .bls__grid .bls__product-item .bls__product-details {
   padding: 15px;
+  transform: translateY(10px);
 }
 
 .bls__grid .bls__product-item,
