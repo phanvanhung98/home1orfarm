@@ -169,12 +169,12 @@
     color: #B4DEA4;
 }
 
-.countdown_design_1 .timer-banner .timer-block:not(:last-child):after {
+/* .countdown_design_1 .timer-banner .timer-block:not(:last-child):after {
     content: ':';
     font-size: 2.4rem;
     margin: 0 1rem;
     line-height: 1;
-}
+} */
 
 .countdown_design_2 .timer-banner {
     border: 1px solid #dedede;
