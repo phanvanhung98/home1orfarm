@@ -3424,13 +3424,11 @@ body .gclose svg,body .gnext svg,body .gprev svg{
   color: var(--primary-color);
 }
 
-
-
-.bls__section-des a {
+.bls__section .bls__custom-html .bls__section-des a {
   position: relative;
   padding-right: 26px;
 }
-.bls__section-des a:before, .bls__section-des a:after {
+.bls__section .bls__custom-html .bls__section-des a:before, .bls__section .bls__custom-html .bls__section-des a:after {
     position: absolute;
     top: 0px;
     right: 0;
@@ -3442,10 +3440,10 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     vertical-align: middle;
     display: inline-block;
 }
-.bls__section-des a:after {
+.bls__section .bls__custom-html .bls__section-des a:after {
     right: 6px;     
 }
-.bls__section-des a:hover:before, .bls__section-des a:hover:after {
+.bls__section .bls__custom-html .bls__section-des a:hover:before, .bls__section .bls__custom-html .bls__section-des a:hover:after {
   animation: button-tran 0.4s ease;
 }
 
