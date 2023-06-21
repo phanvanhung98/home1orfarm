@@ -344,7 +344,11 @@ section:not(.bls__product-single) .bls__product-details,
   line-height: 20px;
   color: #2D2A6E;
   padding-bottom: 7px;
-  text-transform: uppercase;
+  text-transform: uppercase; 
+}
+.bls__product-single-content .bls__section-content-product-single .bls__item-content {
+  font-size: 16px;
+  font-weight: 400;
 }
 
 
