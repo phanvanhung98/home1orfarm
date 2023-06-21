@@ -338,7 +338,7 @@ section:not(.bls__product-single) .bls__product-details,
   width: 50%;
 }
 .bls__product-single-content .bls__section-content-product-single .bls__item-label {
-  border-bottom: 1px solid dashed;
+  border-bottom: 1px dashed #C2C2D3;
 }
 
 
