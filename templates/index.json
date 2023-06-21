@@ -582,7 +582,7 @@
         "content_bg_color": "rgba(0,0,0,0)",
         "bg_opacity": 100,
         "padding_top": 100,
-        "padding_bottom": 10,
+        "padding_bottom": 100,
         "reset_spacing": false
       }
     },
