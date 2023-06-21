@@ -1669,9 +1669,15 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     line-height: 22px;
     margin-top: 12px;
 }
-.bls__section  bls__custom-html  {
-  
+.bls__section.bls__custom-html .bls__section-header .bls__section-des p {
+  font-weight: 400;
+  line-height: 23px;
 }
+.bls__section.bls__custom-html .bls__section-header .bls__section-des p a {
+  font-weight: 500;
+  color: var(--primary-color);
+}
+
 .bls__section-header .bls__section-sub-heading { 
     font-size: 18px;
     font-weight: 400;
