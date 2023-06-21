@@ -1015,6 +1015,7 @@ section:not(.bls__product-single) .bls__product-details,
 
 .bls__section-des a {
   position: relative;
+  padding-right: 30px;
 }
 .bls__section-des a:before, .bls__section-des a:after {
     position: absolute;
