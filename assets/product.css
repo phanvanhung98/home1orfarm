@@ -1016,7 +1016,7 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__section-des a {
   position: relative;
 }
-.bls__section-des a:before {
+.bls__section-des a:before, .bls__section-des a:after {
   content: "\e948";
     font-family: blueskytechco!important;
     line-height: 1.5;
@@ -1026,6 +1026,9 @@ section:not(.bls__product-single) .bls__product-details,
     vertical-align: middle;
     display: inline-block;
     font-weight: 600;
+}
+.bls__section-des a:after {
+    
 }
 
 .tab-desgin-1 .bls__collection-tab-item {
