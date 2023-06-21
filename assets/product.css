@@ -1012,6 +1012,11 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__collection-tab .bls__collection-tab-content .bls__product-item {
   margin-bottom: 4px !important;
 }
+
+.bls__section-des a:before {
+  
+}
+
 .tab-desgin-1 .bls__collection-tab-item {
   color: var(--heading-color);
   cursor: pointer;
