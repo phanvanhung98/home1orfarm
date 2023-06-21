@@ -1015,7 +1015,6 @@ section:not(.bls__product-single) .bls__product-details,
   border-radius: var(--btn-border-radius);
   margin-bottom: 0;
   margin-right: 1rem;
-  text-transform: uppercase;
   transition: var(--bls-transition);
   -webkit-transition: var(--bls-transition);
 }
