@@ -313,7 +313,7 @@ section:not(.bls__product-single) .bls__product-details,
   line-height: 1.075;
 }
 .bls__product-single-content .bls__section-sub-heading {
-  marign-bottom: 4px;
+  margin-bottom: 4px;
 }
 .bls__product-single-content .bls__section-heading-product-single {
   max-width: 510px;
