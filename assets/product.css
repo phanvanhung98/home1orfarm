@@ -1022,7 +1022,7 @@ section:not(.bls__product-single) .bls__product-details,
     top: 5px;
     right: 0;
     content: "\e948";
-    font-family: blueskytechco!important;
+    font-family: blueskytechco !important;
     line-height: 1.5;
     font-size: 14px;
     font-weight: 600;
