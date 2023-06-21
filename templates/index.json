@@ -460,6 +460,18 @@
     "d7c940ee-feba-414f-b29c-58988dbc7462": {
       "type": "banner-with-text",
       "blocks": {
+        "804cfada-e43e-4d78-a68f-3cbb4c8a4947": {
+          "type": "subheading",
+          "settings": {
+            "sub_title": "~ Deals Of The Day ~",
+            "subheading_color": "#ffffff",
+            "subheading_fs": 18,
+            "subheading_fw": 400,
+            "subheading_tf": "unset",
+            "subheading_mt": 0,
+            "subheading_mb": 10
+          }
+        },
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-0": {
           "type": "heading",
           "settings": {
@@ -524,6 +536,7 @@
         }
       },
       "block_order": [
+        "804cfada-e43e-4d78-a68f-3cbb4c8a4947",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-0",
         "template--19393301381415__d7c940ee-feba-414f-b29c-58988dbc7462-1687144072d57d1d4d-1",
         "eaa1bd5c-4fcf-4f9a-b808-a7ab38efe6ae",
