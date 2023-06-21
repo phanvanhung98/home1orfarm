@@ -1030,7 +1030,10 @@ section:not(.bls__product-single) .bls__product-details,
     display: inline-block;
 }
 .bls__section-des a:after {
-    right: 6px;
+    right: 6px;     
+}
+.bls__section-des a:hover {
+  animation: button-tran 0.4s ease;
 }
 
 .tab-desgin-1 .bls__collection-tab-item {
