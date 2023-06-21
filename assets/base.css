@@ -3458,4 +3458,7 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     opacity: 1;
   }
 }
+.btn-lh-16 {
+  line-height: 16px;
+}
 
