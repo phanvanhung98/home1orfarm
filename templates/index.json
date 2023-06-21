@@ -130,7 +130,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Fresh Fruits",
-            "collection": "",
+            "collection": "fresh-fruits",
             "image": "shopify:\/\/shop_images\/clt-f-2.jpg"
           }
         },
@@ -138,7 +138,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Fruit Drink",
-            "collection": "",
+            "collection": "fruit-drink",
             "image": "shopify:\/\/shop_images\/clt-f-3.jpg"
           }
         },
@@ -146,7 +146,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Fresh Bakery",
-            "collection": "",
+            "collection": "fresh-fruits",
             "image": "shopify:\/\/shop_images\/clt-f-4.jpg"
           }
         },
@@ -154,7 +154,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Biscuits Snack",
-            "collection": "",
+            "collection": "biscuits-snack",
             "image": "shopify:\/\/shop_images\/clt-f-5.jpg"
           }
         },
@@ -162,7 +162,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Fresh Meat",
-            "collection": "",
+            "collection": "fresh-meat",
             "image": "shopify:\/\/shop_images\/clt-f-6.jpg"
           }
         },
@@ -170,7 +170,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Fresh Milk",
-            "collection": "",
+            "collection": "collection-offers",
             "image": "shopify:\/\/shop_images\/clt-f-7.jpg"
           }
         },
@@ -178,7 +178,7 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "Sea Foods",
-            "collection": "",
+            "collection": "sea-foods",
             "image": "shopify:\/\/shop_images\/clt-f-8.jpg"
           }
         }
