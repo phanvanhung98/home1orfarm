@@ -350,8 +350,8 @@ section:not(.bls__product-single) .bls__product-details,
   font-size: 16px;
   padding-top: 5px;
 }
-.bls__product-single-content .product-form__buttons .product-form__buttons .product-form__submit, .bls__product-single-content .product-form__buttons .product-form__buttons .bls__product-single-button {
-  line-height: 15px !important;
+.bls__product-single-content .product-form__buttons .product-form__submit, .bls__product-single-content .product-form__buttons .bls__product-single-button {
+  line-height: 15px;
 }
 .bls__product-single-content .product-form__buttons .product-form__submit:after {
   display: none;
