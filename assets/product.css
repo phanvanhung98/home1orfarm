@@ -1032,8 +1032,20 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__section-des a:after {
     right: 6px;     
 }
-.bls__section-des a:hover {
+.bls__section-des a:hover:before, .bls__section-des a:hover:after {
   animation: button-tran 0.4s ease;
+}
+
+@keyframes button-tran {
+  50% {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+  100% {
+    transform: translateX(0);
+    transition: linear 0.4s;
+    opacity: 1;
+  }
 }
 
 .tab-desgin-1 .bls__collection-tab-item {
