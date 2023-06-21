@@ -538,7 +538,7 @@
           "type": "buttons",
           "settings": {
             "btn_content": "View Menu",
-            "button_type": "primary",
+            "button_type": "secondary",
             "button_link": "",
             "button_target": false,
             "b_mt": 0,
