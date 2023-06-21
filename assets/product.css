@@ -1006,7 +1006,9 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__tab .bls__section-header:not(.tab-header) {
   --bls__section-header-margin: clamp(2rem, 4vw, 3rem);
 }
-
+.bls__section-header.tab-desgin-1 {
+  margin-bottom: 32px;
+}
 .tab-desgin-1 .bls__collection-tab-item {
   color: var(--heading-color);
   cursor: pointer;
