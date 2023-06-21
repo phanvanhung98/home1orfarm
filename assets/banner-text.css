@@ -166,6 +166,7 @@
 .timer-banner .timer-block__text {
     font-size: var(--bn-text-font-size);
     text-transform: uppercase;
+    color: #B4DEA4;
 }
 
 .countdown_design_1 .timer-banner .timer-block:not(:last-child):after {
