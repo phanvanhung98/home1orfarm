@@ -531,7 +531,7 @@
             "button_target": true,
             "b_mt": 0,
             "b_mr": 20,
-            "b_mb": 25
+            "b_mb": 20
           }
         },
         "3ace7c14-6bb9-49c5-9b23-58349f1d529a": {
@@ -543,7 +543,7 @@
             "button_target": false,
             "b_mt": 0,
             "b_mr": 0,
-            "b_mb": 25
+            "b_mb": 20
           }
         }
       },
