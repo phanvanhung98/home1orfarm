@@ -109,8 +109,7 @@
     text-transform: var(--text-heading-transform);
     margin-top: var(--text-heading-mt);
     margin-bottom: var(--text-heading-mb);
-
-
+    line-height: 1.075;
 }
 
 .bls__banner-text--subheading {
