@@ -334,6 +334,9 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-content-product-single .row-1 .bls__col-6 {
   
 }
+.bls__product-single-content .bls__section-content-product-single .bls__col-6 {
+  width: 50%;
+}
 
 /* End Section Product Single */
 
