@@ -149,36 +149,6 @@
                   </script>
                 </div>
               {%- else -%}
-                {%- if sale or sold_out or pre_order -%}
-                  <div
-                    class="bls__product-label mb-5 fs-12 pointer-events-none absolute"
-                  >
-                    {%- if sale -%}
-                      <div
-                        class="bls__sale-label"
-                      >
-                        -
-                        {{- percent -}}
-                        %
-                      </div>
-                    {%- endif -%}
-                    {%- if sold_out -%}
-                      <div
-                        class="bls__sold-out-label"
-                      >
-                        {{ 'products.product.sold_out' | t }}
-                      </div>
-                    {%- else -%}
-                      {%- if pre_order -%}
-                        <div
-                          class="bls__pre-order-label"
-                        >
-                          {{ 'products.product.pre_order' | t }}
-                        </div>
-                      {%- endif -%}
-                    {%- endif -%}
-                  </div>
-                {%- endif -%}
 
                 {%- if subheading != blank or heading != blank or description != blank -%}
                   <div
