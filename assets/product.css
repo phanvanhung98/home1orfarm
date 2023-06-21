@@ -327,6 +327,12 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-content-product-single {
   margin-bottom: 40px;
 }
+
+.bls__product-single-content .bls__section-content-product-single {
+  
+}
+
+
 /* End Section Product Single */
 
 /* Product have more row */
