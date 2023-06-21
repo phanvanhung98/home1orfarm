@@ -432,6 +432,20 @@
         "reset_spacing": false
       }
     },
+    "2ac3b5e1-563f-432a-8717-23d2ccef7113": {
+      "type": "custom-html",
+      "settings": {
+        "heading": "",
+        "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products<\/a> <\/p>",
+        "text_alignment": "text-center",
+        "container": "container",
+        "background_color": "",
+        "content_html": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
     "d7c940ee-feba-414f-b29c-58988dbc7462": {
       "type": "banner-with-text",
       "blocks": {
@@ -635,20 +649,6 @@
         "padding_bottom": 14,
         "reset_spacing": false
       }
-    },
-    "2ac3b5e1-563f-432a-8717-23d2ccef7113": {
-      "type": "custom-html",
-      "settings": {
-        "heading": "",
-        "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products<\/a> <\/p>",
-        "text_alignment": "text-center",
-        "container": "container",
-        "background_color": "",
-        "content_html": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
     }
   },
   "order": [
@@ -659,9 +659,9 @@
     "c94594a7-607b-4840-8d8d-5a87a7061580",
     "1cd2b5f2-fadd-4ff0-acc8-c70a1d64767f",
     "3131381f-bb73-4eab-8cab-291875a3280e",
+    "2ac3b5e1-563f-432a-8717-23d2ccef7113",
     "d7c940ee-feba-414f-b29c-58988dbc7462",
     "f595ae89-207e-47fb-93d6-4e1233e26156",
-    "eb0df996-68fb-47e7-aa68-69f9163862b0",
-    "2ac3b5e1-563f-432a-8717-23d2ccef7113"
+    "eb0df996-68fb-47e7-aa68-69f9163862b0"
   ]
 }
