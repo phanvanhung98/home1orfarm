@@ -444,7 +444,7 @@
       "type": "custom-html",
       "settings": {
         "heading": "",
-        "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products &gt;&gt;<\/a> <\/p>",
+        "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products<\/a><\/p>",
         "text_alignment": "text-center",
         "container": "container",
         "background_color": "",
