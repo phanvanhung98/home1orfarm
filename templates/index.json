@@ -561,6 +561,7 @@
         "background_color": "rgba(0,0,0,0)",
         "banner_type": "image",
         "image": "shopify:\/\/shop_images\/bgr-section-banner_1.png",
+        "image_mobile": "shopify:\/\/shop_images\/img-mobile.jpg",
         "video_options": "local",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "link": "",
