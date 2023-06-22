@@ -243,7 +243,7 @@
                 </h4>
               {%- when 'heading' -%}
                 <h2
-                  class="bls__banner-text--heading {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
+                  class="bls__banner-text--heading {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} text-dark-sm"
                   style="--text-heading-font-size: {{ heading_fs }}px; --text-heading-font-weight: {{ heading_fw }}; --text-heading-color: {{ heading_color }}; --text-heading-transform: {{ heading_tf }}; --text-heading-mt: {{ heading_mt }}px; --text-heading-mb: {{ heading_mb }}px;"
                 >
                   {{ block.settings.title | escape }}
