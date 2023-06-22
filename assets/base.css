@@ -1508,6 +1508,11 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
         justify-content: center !important;
     }
 }
+.bls__footer-bottom .custom-footer .bls__footer-bottom-right {
+    @media (max-width: 991px) {
+        justify-content: center !important;
+    }
+} 
 .footer .disclosure__list{
     bottom:100%;
     left:0;
