@@ -55,7 +55,7 @@
     assign sold_out = false
   endif
 
-  assign single_prod_class = 'col-lg-6 col-md-6 col-xl-6 col-sm-12 col-12'
+  assign single_prod_class = 'col-lg-6 col-md-12 col-xl-6 col-sm-12 col-12'
   assign spt_tablet = ''
   if st.padding_top > 50
     assign spt_tablet = ' spt-tablet'
@@ -108,7 +108,7 @@
           <div
             class="row"
           >
-            <div class="bls__product-img-custom col-lg-6 col-md-6 col-xl-6 col-sm-12 col-12">  
+            <div class="bls__product-img-custom col-lg-6 col-md-12 col-xl-6 col-sm-12 col-12">  
             <div class="desktop">
               {%- if st.image != blank -%}
                 {%- render 'responsive-image' | image: st.image -%}
