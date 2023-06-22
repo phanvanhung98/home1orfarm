@@ -365,7 +365,7 @@ section:not(.bls__product-single) .bls__product-details,
 }
 .bls__product-single-content .bls__product-item .bls__product-img-custom {
   @media (max-width: 1400px) {
-    transform: translateY(-20px);
+    transform: translateY(-18px);
   }
 }
 
