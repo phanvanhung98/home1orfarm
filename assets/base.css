@@ -2287,7 +2287,7 @@ body .dlg.dialog-remove-loadding{
     border-radius:50%;
     font-size:var(--swiper-arrow-size, 1.6rem);
     box-shadow:none;
-    border:1px solid var(--border-color-base);
+/*     border:1px solid var(--border-color-base); */
     transform:translateY(-50%);
     -webkit-transform:translateY(-50%)
 }
