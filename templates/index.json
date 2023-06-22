@@ -281,7 +281,7 @@
         "column_gap": 20,
         "button_animation": "flash-move",
         "padding_top": 22,
-        "padding_bottom": 0,
+        "padding_bottom": 20,
         "reset_spacing": false
       }
     },
