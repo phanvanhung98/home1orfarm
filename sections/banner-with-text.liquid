@@ -236,7 +236,7 @@
                 </div>
               {%- when 'subheading' -%}
                 <h4
-                  class="bls__banner-text--subheading {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
+                  class="bls__banner-text--subheading {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} subheading-dark-sm"
                   style="--text-subheading-font-size: {{ subheading_fs }}px; --text-subheading-font-weight: {{ subheading_fw }}; --text-subheading-color: {{ subheading_color }}; --text-subheading-transform: {{ subheading_tf }}; --text-subheading-mt: {{ subheading_mt }}px; --text-subheading-mb: {{ subheading_mb }}px;"
                 >
                   {{ block.settings.sub_title | escape }}
