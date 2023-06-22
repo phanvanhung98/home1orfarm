@@ -252,7 +252,7 @@
     }
 }
 
-.des-dark-sm {
+.des-dark-sm p {
     @media (max-width: 767px) {
         color: var(--base-color) !important;
     }
