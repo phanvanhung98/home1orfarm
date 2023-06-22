@@ -311,6 +311,9 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__product-item .slide__block-heading {
   font-size: 40px;
   line-height: 1.075;
+  @media (max-width: 1199px) {
+    font-size: 30px;
+  }
 }
 .bls__product-single-content .bls__section-sub-heading {
   margin-bottom: 3px;
