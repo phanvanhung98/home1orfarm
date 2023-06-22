@@ -204,7 +204,11 @@
     max-width: 500px;
 }
 
-
+.slide__block-description {
+    @media (max-width: 1024px) {
+        max-width: 450px;
+    }
+}
 
 .slide__block-link {
     margin-top: 57px !important;
