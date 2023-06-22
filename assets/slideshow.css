@@ -195,6 +195,7 @@
     font-size: clamp(3.6rem, 4.7vw, var(--section-heading-font-size, 110px));
     line-height: 1.15;
     font-weight: var(--section-heading-font-weight, 400);
+      margin-bottom: 21px;
 }
 
 .slide__block-description {
@@ -209,7 +210,7 @@
 
 .slide__block-link:not(.btn-link) {
     padding: clamp(1rem, 1.2vw, 1.45rem) clamp(4rem, 4.5vw, 6.6rem);
-  padding: 12px 51px;
+    padding: 12px 51px;
 }
 
 .bls__slideshow {
