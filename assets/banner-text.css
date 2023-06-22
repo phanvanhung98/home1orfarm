@@ -258,6 +258,12 @@
     }
 }
 
+.timer-block-dark-sm .timer-block__num {
+    @media (max-width: 767px) {
+        color: var(--base-color) !important;
+    }
+}
+
 @media (min-width: 768px) {
     .bls__banner-text--media.col-md-60 {
         flex: 0 0 auto;
