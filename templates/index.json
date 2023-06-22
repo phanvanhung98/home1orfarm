@@ -617,7 +617,7 @@
         "post_show_excerpt": true,
         "post_show_button": true,
         "padding_top": 26,
-        "padding_bottom": 0,
+        "padding_bottom": 30,
         "reset_spacing": false
       }
     },
