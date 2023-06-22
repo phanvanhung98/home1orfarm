@@ -371,6 +371,12 @@ section:not(.bls__product-single) .bls__product-details,
     transform: translateY(-20px);
   }
 }
+.bls__product-single-content .bls__product-item .bls__product-img-custom .bls__responsive-image {
+  @media (max-width: 991px) and (min-width: 768px) {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+}
 
 /* End Section Product Single */
 
