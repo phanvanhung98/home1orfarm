@@ -308,9 +308,6 @@ section:not(.bls__product-single) .bls__product-details,
   background-color: transparent;
   border: none;
 }
-.bls__product-single-content .bls__product-img-custom {
-  
-}
 .bls__product-single-content .bls__product-item .slide__block-heading {
   font-size: 40px;
   line-height: 1.075;
@@ -330,7 +327,6 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-content-product-single {
   margin-bottom: 47px;
 }
-
 .bls__product-single-content .bls__section-content-product-single .row {
   margin-bottom: 20px;
 }
