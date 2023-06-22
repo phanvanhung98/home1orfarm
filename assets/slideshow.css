@@ -203,7 +203,7 @@
     line-height: 1.5;
     font-weight: var(--section-description-font-weight, 400);
     max-width: 300px;
-    overflow: hidden
+    overflow: hidden;
 };
 
 .slide__block-link {
