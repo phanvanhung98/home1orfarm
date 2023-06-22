@@ -242,7 +242,7 @@
 
 .text-dark-sm {
     @media (max-width: 767px) {
-        color: var(--heading-color);
+        color: var(--heading-color) !important;
     }
 }
 
