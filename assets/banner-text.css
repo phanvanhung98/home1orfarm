@@ -237,7 +237,10 @@
 .bls__banner-with-text.has-bg .bls__banner-text--media .hover-effect,
 .bls__banner-with-text.has-bg .bls__banner-text--media .hover-effect>div,
 .bls__banner-with-text.has-bg .bls__banner-text--media .hover-effect .bls__responsive-image {
-    height: 100%;
+/*     height: 100%; */
+    @media (max-width: 767px) {
+        height: 100%;
+    }
 }
 
 .text-dark-sm {
