@@ -240,6 +240,12 @@
     height: 100%;
 }
 
+.text-dark-sm {
+    @media (max-width: 767px) {
+        color: var(--heading-color);
+    }
+}
+
 @media (min-width: 768px) {
     .bls__banner-text--media.col-md-60 {
         flex: 0 0 auto;
