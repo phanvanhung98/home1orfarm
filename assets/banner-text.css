@@ -246,6 +246,12 @@
     }
 }
 
+.subheading-dark-sm {
+    @media (max-width: 767px) {
+        color: var(--color-link-hover) !important;
+    }
+}
+
 @media (min-width: 768px) {
     .bls__banner-text--media.col-md-60 {
         flex: 0 0 auto;
