@@ -280,8 +280,8 @@
         "single_product": "organic-drinks-easy-healthy-happy-life",
         "column_gap": 20,
         "button_animation": "flash-move",
-        "padding_top": 100,
-        "padding_bottom": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "reset_spacing": false
       }
     },
