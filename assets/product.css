@@ -330,9 +330,6 @@ section:not(.bls__product-single) .bls__product-details,
 .bls__product-single-content .bls__section-content-product-single .row {
   margin-bottom: 20px;
 }
-.bls__product-single-content .bls__section-content-product-single .row .bls__col-6 {
-  
-}
 .bls__product-single-content .bls__section-content-product-single .bls__col-6 {
   width: 50%;
 }
