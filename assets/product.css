@@ -358,7 +358,11 @@ section:not(.bls__product-single) .bls__product-details,
     transform: translateY(5px);
   }
 }
-
+.bls__product-single-content .bls__product-details > .row {
+  @media (max-width: 1400px) {
+    
+  }
+}
 
 /* End Section Product Single */
 
