@@ -250,7 +250,7 @@
                 </h2>
               {%- when 'text' -%}
                 <div
-                  class="bls__banner-text--des {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
+                  class="bls__banner-text--des {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %} des-dark-sm"
                   style="--text-font-size: {{ txt_fs }}px;{%- if txt_color != blank -%} --text-color: {{ txt_color }};{%- endif -%} --text-font-weight: {{ txt_fw }}; --text-transform: {{ txt_tf }}; --text-mt: {{ txt_mt }}px; --text-mb: {{ txt_mb }}px;"
                 >
                   {{ block.settings.txt_content }}
