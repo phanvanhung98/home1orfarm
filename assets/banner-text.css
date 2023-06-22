@@ -252,7 +252,7 @@
     }
 }
 
-.des-dark-sm p {
+.des-dark-sm p, .timer-block-dark-sm .timer-block__text {
     @media (max-width: 767px) {
         color: var(--base-color) !important;
     }
