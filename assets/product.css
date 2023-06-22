@@ -363,6 +363,8 @@ section:not(.bls__product-single) .bls__product-details,
     align-items: end;
   }
 }
+.bls__product-img-custom {
+}
 
 /* End Section Product Single */
 
