@@ -2283,7 +2283,7 @@ body .dlg.dialog-remove-loadding{
     height:var(--swiper-arrow-height,5rem);
     margin-top:0;
     align-items:center;
-    background-color:var(--color-white);
+    background-color:var(--primary-color);
     border-radius:50%;
     font-size:var(--swiper-arrow-size, 1.6rem);
     box-shadow:none;
