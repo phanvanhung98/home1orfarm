@@ -205,7 +205,7 @@
 }
 
 .slide__block-link {
-    margin-top: clamp(3.5rem, 4vw, 5rem);
+    margin-top: 50px;
 }
 
 .slide__block-link:not(.btn-link) {
