@@ -438,7 +438,7 @@
         "button_action": "load",
         "button_label": "Load more",
         "button_type": "primary",
-        "padding_top": 0,
+        "padding_top": 14,
         "padding_bottom": 0,
         "reset_spacing": false
       }
