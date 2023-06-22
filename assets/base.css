@@ -1503,6 +1503,11 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     background-color:var(--footer-bottom-background--color);
     color:var(--footer-bottom-text-color)
 }
+.bls__footer-bottom .custom-footer {
+    @media (max-width: 991px) {
+        justify-content: center !important;
+    }
+}
 .footer .disclosure__list{
     bottom:100%;
     left:0;
