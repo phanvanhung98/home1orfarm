@@ -360,6 +360,9 @@ section:not(.bls__product-single) .bls__product-details,
   @media (max-width: 1400px) {
     transform: translateY(0px);
   }
+  @media (max-width: 991px) {
+    
+  }
 }
 .bls__product-single-content .bls__product-item .row {
   @media (max-width: 1400px) {
