@@ -205,7 +205,7 @@
 };
 
 .slide__block-link {
-    margin-top: 57px;
+    margin-top: 57px !important;
 }
 
 .slide__block-link:not(.btn-link) {
