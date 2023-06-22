@@ -204,9 +204,15 @@
 
 };
 
-.slide__block-link {
+/* .slide__block-link {
     margin-top: 57px !important;
 }
+ */
+.slide__block-link {
+    margin-top: clamp(2.5rem, 4vw, 5rem);
+    display:none;
+}
+
 
 .slide__block-link:not(.btn-link) {
     padding: clamp(1rem, 1.2vw, 1.45rem) clamp(4rem, 4.5vw, 6.6rem);
