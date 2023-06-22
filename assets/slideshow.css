@@ -18,7 +18,7 @@
 
 .sf__slide-content {
     position: relative;
-    padding-top: clamp(10rem, 5.5vw, 10rem);
+    padding-top: clamp(20rem, 5.5vw, 10rem);
     padding-bottom: clamp(3rem, 5.5vw, 10rem);
 }
 
