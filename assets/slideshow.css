@@ -202,7 +202,9 @@
     font-size: var(--section-description-font-size, 14px);
     line-height: 1.5;
     font-weight: var(--section-description-font-weight, 400);
-}
+    max-width: 300px;
+    overflow: hidden
+};
 
 .slide__block-link {
     margin-top: 57px;
