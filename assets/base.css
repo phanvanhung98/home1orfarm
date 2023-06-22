@@ -178,7 +178,7 @@ header svg{
         flex:1
     }
     .header-container .col-header-right svg{
-        vertical-align:-3px
+/*         vertical-align:-3px */
     }
     .h-transparent:not(.transparent-topbar) .header-transparent,.transparent-topbar .header-container{
         position:absolute;
