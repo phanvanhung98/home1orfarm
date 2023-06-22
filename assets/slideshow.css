@@ -205,7 +205,9 @@
 }
 
 @media (max-width: 1024px) {
-  max-width: 450px;
+  .slide__block-description {
+    max-width: 450px;
+  }
 }
 
 .slide__block-link {
