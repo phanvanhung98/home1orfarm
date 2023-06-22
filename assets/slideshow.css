@@ -186,7 +186,7 @@
 .slide__block-subtitle {
     font-size: var(--section-subheading-font-size, 12px);
     font-weight: var(--section-subheading-font-weight, 500);
-    margin-bottom: clamp(0rem, 1vw, 1.5rem);
+    margin-bottom: 39px;
     color: var(--subheading-color);
     text-transform: uppercase;
 }
