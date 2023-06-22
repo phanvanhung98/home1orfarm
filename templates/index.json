@@ -577,7 +577,7 @@
         "content_box": "content_in_container",
         "text_bellow_mobile": true,
         "img_position": "left",
-        "banner_width": "col-md-6",
+        "banner_width": "col-md-60",
         "column_gap": 10,
         "text_horizontal_position": "left",
         "text_position": "center",
