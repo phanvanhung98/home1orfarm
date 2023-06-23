@@ -71,7 +71,7 @@
             "content_opacity": 100,
             "horizontal_position": "left_position",
             "vertical_position": "middle_position",
-            "slider_effect": "effect_fadeindown",
+            "slider_effect": "effect_fadeinright",
             "text_alignment": "left",
             "text_alignment_on_mobile": "left",
             "text_color": "text-dark",
