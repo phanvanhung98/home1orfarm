@@ -243,11 +243,11 @@
     }
 }
 
-.bls__banner-text--content-inner {
+/* .bls__banner-text--content-inner {
     @media (max-width: 1199px) {
         max-width: 60px !important;
     }
-}
+} */
 .text-dark-sm {
     @media (max-width: 767px) {
         color: var(--heading-color) !important;
