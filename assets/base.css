@@ -1508,12 +1508,18 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
         justify-content: center !important;
     }
 }
-.bls__footer-bottom .custom-footer .bls__footer-bottom-right {
+
+.bls__footer-bottom .custom-footer .bls__footer-bottom-right{
     @media (max-width: 991px) {
         justify-content: center !important;
-          flex-wrap: wrap;
+        flex-wrap: wrap;
     }
 } 
+.bls__footer-bottom .custom-footer .bls__footer-bottom-right .lang-curentcy {
+  @media (max-width: 991px) {
+        margin-bottom: 15px;
+    }
+}
 .footer .disclosure__list{
     bottom:100%;
     left:0;
