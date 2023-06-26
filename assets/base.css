@@ -1699,6 +1699,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
 .bls__section-header .bls__section-des {
   font-size: 15px;
   margin-top: 5px;
+  display: block;
 }
 
 .bls__section-header .bls__section-sub-heading { 
