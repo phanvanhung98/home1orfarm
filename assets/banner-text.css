@@ -38,6 +38,12 @@
     }
 }
 
+@media (min-width: 768px) {
+    .bls__banner-text--content-inner {
+        max-width: 490px;
+    }
+}
+
 .text-center .bls__banner-text--content-inner {
     padding: 0 2rem;
 }
