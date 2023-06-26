@@ -109,7 +109,7 @@
                 endif
               -%}
               <div
-                class="bls__section-heading bls__collection-tab-item{{ active }} px-25 d-inline-flex {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
+                class=" bls__collection-tab-item{{ active }} px-25 d-inline-flex {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
                 data-id="collection-{{ block.id }}"
                 {% if enabled_animations %}
                   data-cascade
@@ -122,9 +122,9 @@
           </div>
         {%- else -%}
           <div class="bls__section-header flex justify-content-center align-items-center flex-nowrap {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}">
-            <h2 class="bls__section-heading grey-color mb-0 mr-20">{{ 'products.product.select_tab' | t }}</h2>
+            <h2 class=" grey-color mb-0 mr-20">{{ 'products.product.select_tab' | t }}</h2>
             <div class="custom-select flex flex-nowrap">
-              <select class="bls__section-heading bls__select select-data">
+              <select class=" bls__select select-data">
                 {%- for block in blocks -%}
                   {%- liquid
                     assign tab_name = block.settings.title
