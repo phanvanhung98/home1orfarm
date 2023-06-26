@@ -759,7 +759,7 @@ header svg{
     opacity:1;
     visibility:visible;
     pointer-events:auto;
-    top:calc(100% + 3px)
+    top:calc(100% + 4px)
 }
 .navigation{
     color:var(--navigation-color);
