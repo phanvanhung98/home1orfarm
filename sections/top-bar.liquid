@@ -77,7 +77,7 @@
               </a>
             {%- endif -%}
             {%- if show_faqs_page and settings.link_faqs_page and settings.label_location -%}
-              <a href="{{ pages[settings.link_faqs_page].url | default: '#' }}" aria-label="links" class="py-7">
+              <a href="{{ pages[settings.link_faqs_page].url | default: '#' }}" aria-label="links" class="custom-border-r py-7">
                 {%- if settings.label_location != blank -%}
                   <span>{{ settings.label_location }} </span>
                 {%- else -%}
