@@ -360,7 +360,10 @@ section:not(.bls__product-single) .bls__product-details,
 }
 .bls__product-single-content .bls__product-details {
   transform: translateY(15px);
-  padding-left: 5%;
+  @media (min-width: 1200px) {
+    padding-left: 5%;
+    max-width: 600px;
+  }
   @media (max-width: 991px) {
     padding: 16px 15px 21px;
   }
