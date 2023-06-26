@@ -26,7 +26,7 @@
 
 @media (min-width: 1400px) {
     .bls__banner-text--content-inner {
-/*      width: var(--content-width); */
+        /* width: var(--content-width); */
         max-width: 490px;
         margin-left: 6%;
     }
