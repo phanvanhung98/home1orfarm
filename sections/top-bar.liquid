@@ -59,7 +59,7 @@
         {%- if show_store_page or show_language or show_country -%}
           <div class="col-t col-right d-flex align-items-center justify-content-end">
             {%- if show_store_page and settings.link_store_page and settings.label_location -%}
-              <a href="{{ pages[settings.link_store_page].url | default: '#' }}" aria-label="links" class="py-7">
+              <a href="{{ pages[settings.link_store_page].url | default: '#' }}" aria-label="links" class="py-7 fs-13">
                 {%- if settings.label_location != blank -%}
                   <span>{{ settings.label_location }} </span>
                 {%- else -%}
