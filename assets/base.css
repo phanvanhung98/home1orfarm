@@ -1467,7 +1467,7 @@ header svg{
   margin-left: 3px;
 }
 .footer a:hover{
-    color:var(--footer-link-hover-color)
+    color:#fff;
 }
 .footer h3{
     color:var(--footer-heading-color)
