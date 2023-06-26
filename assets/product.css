@@ -22,6 +22,7 @@
   color: #9999B8;
   font-weight: var(--bls__product-price-sale-weight);
   padding-left: 0.5rem;
+  font-size: 14px;
 }
 
 .bls__product-price .special-price {
