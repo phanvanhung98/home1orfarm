@@ -3502,13 +3502,13 @@ body .gclose svg,body .gnext svg,body .gprev svg{
 }
 .swiper-actions.show-on-desktop .swiper-next {
     right: 100px !important;
-    @media (max-width:1500px) {
+    @media (max-width:1700px) {
         right: 50px !important;
     }
 }
 .swiper-actions.show-on-desktop .swiper-prev {
     left: 100px !important;
-    @media (max-width:1500px) {
+    @media (max-width:1700px) {
         left: 50px !important;
     }
 }
