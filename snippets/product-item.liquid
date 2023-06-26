@@ -381,14 +381,14 @@
         {{ product.vendor | link_to_vendor }}
       </div>
     {%- endif -%}
-    <h3 class="bls__product-name regular mb-0 hung">
+    <div class="bls__product-name regular mb-0">
       <a
         class="limited-line {{ product_name_t_transfrom }}"
         style="--line-clamp: {{ product_name_line }}"
         href="{{ product.url | within: collection }}">
         {{ product.title }}
       </a>
-    </h3>
+    </div>
     {%- if product_style == 'bls__product-style-4' %}
       <div class="price-review flex flex-wrap flex-end row-reverse">
       {%- endif -%}
