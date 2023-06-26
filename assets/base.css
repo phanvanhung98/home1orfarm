@@ -1500,8 +1500,8 @@ header svg{
   position: absolute;
   content: '';
   top: 0;
-  left: 0;
-  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
   width: 1410px;
   height: 1px;
   background-color: #484492;
