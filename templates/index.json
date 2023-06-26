@@ -539,7 +539,7 @@
           "settings": {
             "btn_content": "Shop Now",
             "button_type": "secondary",
-            "button_link": "#",
+            "button_link": "shopify:\/\/collections\/fresh-meat",
             "button_target": true,
             "b_mt": 0,
             "b_mr": 20,
