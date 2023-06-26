@@ -86,11 +86,11 @@
               </a>
             {%- endif -%}
             {%- liquid
-              if show_country
-                render 'country-switcher'
-              endif
               if show_language
                 render 'language-switcher'
+              endif
+              if show_country
+                render 'country-switcher'
               endif
             -%}
           </div>
