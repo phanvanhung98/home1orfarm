@@ -353,24 +353,6 @@
               "col": "3"
             }
           },
-          "0bd9c491-364c-43fe-b0f1-08aff9ab6378": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "show_count": false,
-              "open_link": false,
-              "col": "3"
-            }
-          },
-          "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "show_count": false,
-              "open_link": false,
-              "col": "3"
-            }
-          },
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2": {
             "type": "link",
             "settings": {
@@ -482,8 +464,6 @@
           "268d6e56-4f79-4f6a-b2ef-c056783481d4",
           "81fceee0-ca53-44a4-89ac-51ed3f3907eb",
           "4e569da7-b3ef-4dec-81d3-703cb45b6fec",
-          "0bd9c491-364c-43fe-b0f1-08aff9ab6378",
-          "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3",
           "20ad44f0-ea33-4491-8fd2-8c87af447bf2",
           "882a36ca-717e-41e8-878f-4028268a7197",
           "10d68d71-2b8e-43b2-b14f-49c7da236e2d",
