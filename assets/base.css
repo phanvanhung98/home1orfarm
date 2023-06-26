@@ -1681,7 +1681,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     text-transform: uppercase;
 }
 .bls__section.bls__custom-html .bls__section-header .bls__section-des {
-    font-size: 15px;
+    font-size: 45px;
     font-weight: 400;
     line-height: 22px;
     margin-top: 36px;
