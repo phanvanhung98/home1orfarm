@@ -181,6 +181,14 @@
             "collection": "sea-foods",
             "image": "shopify:\/\/shop_images\/clt-f-8.jpg"
           }
+        },
+        "b1ba03f3-a7b4-4e23-a201-7c4a2730abb9": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Nutritional",
+            "collection": "collection-nutritional-water",
+            "image": "shopify:\/\/shop_images\/clt-f-3.jpg"
+          }
         }
       },
       "block_order": [
@@ -191,7 +199,8 @@
         "9644dda7-490b-450f-837b-04e8c15196f6",
         "13809c04-25b6-4a14-835b-0402ecaf1dde",
         "11727108-d50d-428f-bad3-6e0dadbeb7f6",
-        "6d0e3131-57af-4574-bbb9-bed72f510ffe"
+        "6d0e3131-57af-4574-bbb9-bed72f510ffe",
+        "b1ba03f3-a7b4-4e23-a201-7c4a2730abb9"
       ],
       "custom_css": [
         ".bls__collection {margin-top: -42px;}"
