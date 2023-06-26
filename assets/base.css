@@ -3523,3 +3523,6 @@ body .gclose svg,body .gnext svg,body .gprev svg{
         left: 30px !important;
     }
 }
+.btn-background-secondary {
+    background-color: var(--btn-secondary-bg);
+}
