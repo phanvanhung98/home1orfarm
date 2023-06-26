@@ -1495,6 +1495,7 @@ header svg{
 
 .bls__footer-middle.show_border_top {
   position: relative;
+  overflow: hidden;
 }
 .bls__footer-middle.show_border_top:before {
   position: absolute;
@@ -1502,17 +1503,9 @@ header svg{
   top: 0;
   height: 1px;
   background-color: #484492;
-  @media (min-width: 1410px) {
-    width: 1410px;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-}
-.bls__footer-middle.show_border_top:before {
-  @media (max-width: 1409px) {
-    width: 100%;
-    left:0;
-  }
+  width: 1410px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     border-top:1px solid var(--border-color-base);
