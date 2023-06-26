@@ -32,6 +32,10 @@
     }
 }
 
+.bls__banner-text--content-inner {
+  transform: translateX(-10px);
+}
+
 @media (min-width: 1200px) {
     .bls__banner-text--content-inner {
         max-width: 490px;
