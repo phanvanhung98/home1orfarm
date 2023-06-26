@@ -1500,8 +1500,6 @@ header svg{
   position: absolute;
   content: '';
   top: 0;
-  
-  
   height: 1px;
   background-color: #484492;
   @media (min-width: 1410px) {
@@ -1509,12 +1507,13 @@ header svg{
     left: 50%;
     transform: translateX(-50%);
   }
+}
+.bls__footer-middle.show_border_top:before {
   @media (max-width: 1409px) {
     width: 100%;
     left:0;
   }
 }
-
 body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
     border-top:1px solid var(--border-color-base);
     padding-top:var(--footer-middle-padding-top)
