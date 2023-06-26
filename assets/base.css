@@ -3481,4 +3481,18 @@ body .gclose svg,body .gnext svg,body .gprev svg{
 .btn-lh-16 {
   line-height: 16px;
 }
-
+.custom-border-r {
+    position: relative;
+    padding-right: 21px;
+    margin-right: 20px !important;
+}
+.custom-border-r:before {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 14px;
+    background-color: #5E5AA3;
+}
