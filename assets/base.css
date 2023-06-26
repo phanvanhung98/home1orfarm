@@ -3500,3 +3500,6 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     font-size: 13px;
     font-weight: 500;
 }
+.swiper-actions.show-on-desktop .swiper-next {
+    right: 100px !important;
+}
