@@ -280,8 +280,7 @@
 @media (min-width: 768px) {
     .bls__banner-text--media.col-md-60 {
         flex: 0 0 auto;
-/*         width: 60%; */
-      max-width: 490px;
+        width: 60%;
     }
 }
 
