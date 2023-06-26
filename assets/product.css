@@ -359,7 +359,7 @@ section:not(.bls__product-single) .bls__product-details,
   display: none;
 }
 .bls__product-single-content .bls__product-details {
-  transform: translateY(20px);
+  transform: translateY(15px);
   padding-left: 5%;
   @media (max-width: 991px) {
     padding: 16px 15px 21px;
