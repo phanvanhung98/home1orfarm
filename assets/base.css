@@ -1492,10 +1492,10 @@ header svg{
 .footer.has-bg .bls__footer-middle{
     padding-top: 76px;
 }
-body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
-/*     border-top:1px solid var(--border-color-base); */
+/* body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
+    border-top:1px solid var(--border-color-base);
     padding-top:var(--footer-middle-padding-top)
-}
+} */
 .bls__footer-middle{
     padding-bottom: 22px;
 }
