@@ -459,7 +459,7 @@
       ],
       "settings": {
         "heading": "",
-        "description": "<p>Discover thousands of other quality products. <a href=\"#\" target=\"_blank\" title=\"#\">Shop All Products<\/a><\/p>",
+        "description": "<p>Discover thousands of other quality products. <a href=\"\/collections\/fresh-meat\" target=\"_blank\" title=\"Fresh Meat\">Shop All Products<\/a><\/p>",
         "text_alignment": "text-center",
         "container": "container",
         "background_color": "",
