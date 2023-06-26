@@ -1697,7 +1697,7 @@ body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
   color: var(--primary-color);
 }
 .bls__section-header .bls__section-des {
-  font-size: 25px;
+  font-size: 15px;
 }
 
 .bls__section-header .bls__section-sub-heading { 
