@@ -1505,6 +1505,9 @@ header svg{
   width: 1410px;
   height: 1px;
   background-color: #484492;
+  @media (max-width: 1410px) {
+    width: 100%;
+  }
 }
 
 body:not(.template-index) .footer.not-bg .bls__footer-middle.show_border_top{
