@@ -267,9 +267,9 @@
                       {{ product.type }}
                     </div>
                   {%- endif -%}
-                  <div class="bls__product-name regular mb-0 hung">
+                  <h3 class="bls__product-name regular mb-0">
                     <a href="{{ product.url | within: collection }}">{{ product.title }}</a>
-                  </div>
+                  </h3>
                   {%- if show_review -%}
                     <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
                   {%- endif -%}
