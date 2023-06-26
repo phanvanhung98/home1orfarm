@@ -3496,3 +3496,7 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     height: 14px;
     background-color: #5E5AA3;
 }
+.disclosure__list .disclosure__item a {
+    font-size: 13px;
+    font-weight: 500;
+}
