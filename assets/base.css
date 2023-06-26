@@ -1508,7 +1508,7 @@ header svg{
   @media (min-width: 1410px) {
     width: 1410px;
   }
-  @media (max-width: 1410px) {
+  @media (max-width: 1409px) {
     width: 100%;
   }
 }
