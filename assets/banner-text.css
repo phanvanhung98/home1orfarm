@@ -131,6 +131,7 @@
     margin-top: var(--b-mt);
     margin-bottom: var(--b-mb);
     margin-right: var(--b-mr);
+    min-width: 200px;
 }
 
 .bls__banner-text--des p {
