@@ -436,7 +436,7 @@
         "tab_type": "carousel",
         "limit_products": 8,
         "item_desktop": 6,
-        "column_gap": 30,
+        "column_gap": 20,
         "carousel_autoplay": false,
         "carousel_loop": false,
         "carousel_arrows": true,
