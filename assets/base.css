@@ -1502,7 +1502,7 @@ header svg{
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-/*   width: 1410px; */
+  width: 1410px;
   height: 1px;
   background-color: #484492;
   @media (max-width: 1410px) {
