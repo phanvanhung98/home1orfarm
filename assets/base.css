@@ -404,7 +404,7 @@ header svg{
 .header-middle .bls-header-recently-viewed .recently-icon,.header-middle .bls__header-wishlist .wishlist-icon-bubble,.header-middle .disclosure .disclosure__button,.header-middle .header_account .header__icon--account,.header-middle .header_minicart #cart-icon-bubble,.header-middle .header_search .top-search-toggle,.header-middle .text-logo{
     color:var(--header-color)
 }
-.bls__banner-heading a:hover,.header-middle .bls-header-recently-viewed .recently-icon:hover,.header-middle .bls__header-wishlist .wishlist-icon-bubble:hover,.header-middle .header_account .header__icon--account:hover,.header-middle .header_minicart #cart-icon-bubble:hover,.header-middle .header_search .top-search-toggle:hover,.links-view-all a:hover,.search_type_canvas .mini_search_header .button-close:hover{
+.bls__banner-heading a:hover,.header-middle .bls-header-recently-viewed .recently-icon:hover,.header-middle .header_account .header__icon--account:hover,.header-middle .header_minicart #cart-icon-bubble:hover,.header-middle .header_search .top-search-toggle:hover,.links-view-all a:hover,.search_type_canvas .mini_search_header .button-close:hover{
     color:var(--primary-color)
 }
 .mini_search_header .widget-title{
