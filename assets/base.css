@@ -1500,16 +1500,18 @@ header svg{
   position: absolute;
   content: '';
   top: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  
   
   height: 1px;
   background-color: #484492;
   @media (min-width: 1410px) {
     width: 1410px;
+    left: 50%;
+    transform: translateX(-50%);
   }
   @media (max-width: 1409px) {
     width: 100%;
+    left:0;
   }
 }
 
