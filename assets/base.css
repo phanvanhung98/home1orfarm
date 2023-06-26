@@ -3527,3 +3527,7 @@ body .gclose svg,body .gnext svg,body .gprev svg{
     background-color: var(--color-link);
     border-color: var(--color-link);
 }
+.btn-hover-primary:hover {
+    background-color: var(--btn-primary-bg);
+    border-color: var(--btn-primary-bg);
+}
