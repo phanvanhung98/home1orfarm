@@ -336,7 +336,7 @@
               "label": "",
               "icon_font": "",
               "icon_width_image": 20,
-              "width": "custom",
+              "width": "full-width",
               "custom_width": 1200,
               "background_repeat": "no-repeat",
               "background_position": "center",
